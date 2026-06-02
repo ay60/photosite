@@ -1,0 +1,53 @@
+{
+  "album_name": "Shallow Depth Of Field",
+  "slug": "shallow-depth-of-field",
+  "source_folder_id": "1lCpwPbxMzODDXwoN3S0fGQVvsRzBcle3",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1zEh6tqIn3lXBIlrHyq2yQDYuJGfL7G9y",
+      "name": "IMG_5769.jpg",
+      "checksum": "e92eeb40d535357500b0f642b1ae99e9"
+    },
+    {
+      "id": "11FcWS-ScNKsGFLMcpjSjqkSmeyASnBLR",
+      "name": "P0003120.jpg",
+      "checksum": "e113584829dca32efe2da20c7c84ee38"
+    },
+    {
+      "id": "1snBwjJh6KDoJVVW0XNogKqOWZ9J0tEoO",
+      "name": "P0003122.jpg",
+      "checksum": "f905c19e0156dd3324ec262ae26ccf15"
+    },
+    {
+      "id": "11vzdC0CwNJUhIhRG9JIF1I_oBAxgMsea",
+      "name": "P0003125.jpg",
+      "checksum": "55834bed0c1907cce1dffceb0a4d5853"
+    },
+    {
+      "id": "1WoZE_zYYEvvIRoaLxv8hSo4mtywGoU2U",
+      "name": "P0003137.jpg",
+      "checksum": "611bebf9d82174965c87b4aeccf0b68f"
+    },
+    {
+      "id": "1J5RSOxhMALcsD35PwhDJf8JitaGqLpVv",
+      "name": "P0003138.jpg",
+      "checksum": "24c78b4b7c23650902cec7aa580542ac"
+    },
+    {
+      "id": "1OteYy3CkUJsgtohqBjDANP7Iv-dnMD3b",
+      "name": "P0003139.jpg",
+      "checksum": "b60ff93a214a909cecb5e9d08a67ab49"
+    },
+    {
+      "id": "192dYb_rGmII6eSlxQex677U3pkErFUuA",
+      "name": "P0003141.jpg",
+      "checksum": "894fbff3d42fbdb345f955b621789d2b"
+    },
+    {
+      "id": "1t3r_L4h6Yh6xQ93ZxjgdIZmGO-xupL7T",
+      "name": "P0003150.jpg",
+      "checksum": "ce1858defef72d7b7ef935d2c0996d74"
+    }
+  ]
+}

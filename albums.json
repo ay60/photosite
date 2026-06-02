@@ -1,8 +1,23 @@
 [
   {
+    "slug": "chair",
+    "name": "Chair",
+    "page_url": "albums/chair.html"
+  },
+  {
     "slug": "chaos",
     "name": "Chaos",
     "page_url": "albums/chaos.html"
+  },
+  {
+    "slug": "complementary-colors",
+    "name": "Complementary Colors",
+    "page_url": "albums/complementary-colors.html"
+  },
+  {
+    "slug": "get-low",
+    "name": "Get Low",
+    "page_url": "albums/get-low.html"
   },
   {
     "slug": "on-the-ground",
@@ -13,5 +28,15 @@
     "slug": "red",
     "name": "Red",
     "page_url": "albums/red.html"
+  },
+  {
+    "slug": "self-portrait",
+    "name": "Self Portrait",
+    "page_url": "albums/self-portrait.html"
+  },
+  {
+    "slug": "shallow-depth-of-field",
+    "name": "Shallow Depth Of Field",
+    "page_url": "albums/shallow-depth-of-field.html"
   }
 ]

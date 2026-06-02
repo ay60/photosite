@@ -1,0 +1,28 @@
+{
+  "album_name": "Self Portrait",
+  "slug": "self-portrait",
+  "source_folder_id": "182waUJF42NGsRPksLY7rnmbDFUdM0GcK",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1Krp7PDT-ssW61AceJ1datPaphsQO0dh6",
+      "name": "P0002986.jpg",
+      "checksum": "2fadeb06644547eb72099762256eccaf"
+    },
+    {
+      "id": "1JDw25O0mXrU6J-ayhmgID7cLSTQse6Sq",
+      "name": "P0002997.jpg",
+      "checksum": "decb11695fb8274d7564140b7c2be699"
+    },
+    {
+      "id": "1EVv6HvICRsrdiewFkUy175yTSpomAEXG",
+      "name": "P0003001.jpg",
+      "checksum": "f7f8f7b0f6319a87e8eaca3e82c6f012"
+    },
+    {
+      "id": "1YNZN_zRE-PzLHx0rw4aEq6vn8o0HzYUi",
+      "name": "P0003004.jpg",
+      "checksum": "fb7d48d9e3f3580afbfa134cc08d52d7"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "album_name": "Chair",
+  "slug": "chair",
+  "source_folder_id": "1h8X0HBkKmiia3cBnov8slnKPsaqvxUVG",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1C3ISHLwb0i7Tcf_MU3h-dwmYIt7YKqcS",
+      "name": "P0003050.jpg",
+      "checksum": "f0f843396efc26bedcf674848bb3b075"
+    },
+    {
+      "id": "1vrlJ0qFeDPltkDuRhnCRBa_0vdNUq90M",
+      "name": "P0003053.jpg",
+      "checksum": "4060a81293ef94f6e822b8ccb9764fb4"
+    },
+    {
+      "id": "1y8XjAulf2Qlpsmq0Eg0hoyzLvCgtdtK4",
+      "name": "P0003068-1.jpg",
+      "checksum": "78d03b01bbae8bd0222360b087d1b318"
+    },
+    {
+      "id": "1Xkdb3YH_HFyHu3Bi7L8YNWou96NYRR2R",
+      "name": "P0003073.jpg",
+      "checksum": "c899d9b8d2afdf5c0b817fd2fee93755"
+    },
+    {
+      "id": "1k7uMIWG_rTrH0lU-jnxlZ91UToMQmSKm",
+      "name": "P0003079.jpg",
+      "checksum": "02f37ca0adad30ecfd581b94e5dcb14a"
+    }
+  ]
+}

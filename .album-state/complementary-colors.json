@@ -1,0 +1,43 @@
+{
+  "album_name": "Complementary Colors",
+  "slug": "complementary-colors",
+  "source_folder_id": "197pDhGd6cfwr_14gq4PP4kXk-jgnwMRI",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1YoWA0Ykjibq3LO4qfEvFZ2P-RJgMjBny",
+      "name": "IMG20260130212255.jpg",
+      "checksum": "45ccd707d83de6a4dbd9347cc17bf9d0"
+    },
+    {
+      "id": "1KDK9TjKzU6rtfJX7YPm-UxnFIuqSs0aa",
+      "name": "IMG20260204081802.jpg",
+      "checksum": "ebdd572a4b371ee59dad35855c9fdb46"
+    },
+    {
+      "id": "1v2pnrtFCOcBiks42xphHBafOmEQSzDkD",
+      "name": "IMG20260207071848.jpg",
+      "checksum": "4b4ed67112fb8d9509fc7f8d9825549b"
+    },
+    {
+      "id": "1pfGmsn5pD_TAIjF2L63iO9nBKyNyjzEg",
+      "name": "P0003083.jpg",
+      "checksum": "4d3e1df767c14b0bbe1981fd0005eb75"
+    },
+    {
+      "id": "14jagHJ5tBwMCzjL1LxLjRQ8rw0Je_Joe",
+      "name": "P0003087.jpg",
+      "checksum": "8c7ea8efa96075dba8474f2b1dc11891"
+    },
+    {
+      "id": "1OlhqCFSTBTAheddY4C-Fg3o5bhsB-5fb",
+      "name": "P0003091.jpg",
+      "checksum": "965f94c3b02b33f0e33eef572a8d459d"
+    },
+    {
+      "id": "14ziLemdxfB0gqCd1hQDA2UrNW6z8ngJR",
+      "name": "P0003101.jpg",
+      "checksum": "ac15791ab90f7a563e6e06765b595d95"
+    }
+  ]
+}

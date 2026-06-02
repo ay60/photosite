@@ -1,0 +1,23 @@
+{
+  "album_name": "Get Low",
+  "slug": "get-low",
+  "source_folder_id": "1XStRmcPO1IvolhFvqeey02KKxfcuzkjf",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1v1DhN8QOR718vP6R-R6rtmbAbcaVMf5N",
+      "name": "IMG20260114093316.jpg",
+      "checksum": "830ae822985db7acaeca4b23994caa0a"
+    },
+    {
+      "id": "1gJ5ski5Q9ZaHpn3z8Ho4KVWDv9yf9XCk",
+      "name": "P0003023.jpg",
+      "checksum": "dc890007faeaef378001f5df0db35bdf"
+    },
+    {
+      "id": "1CdWc5uxEcqbm-5RGLBMuETz2k3RWLQFl",
+      "name": "P0003025_fixed.jpg",
+      "checksum": "1db88186308141075c4feaad557c713f"
+    }
+  ]
+}
