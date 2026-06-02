@@ -3,5 +3,10 @@
     "slug": "on-the-ground",
     "name": "On The Ground",
     "page_url": "albums/on-the-ground.html"
+  },
+  {
+    "slug": "red",
+    "name": "Red",
+    "page_url": "albums/red.html"
   }
 ]
