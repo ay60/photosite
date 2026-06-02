@@ -1,0 +1,28 @@
+{
+  "album_name": "Chaos",
+  "slug": "chaos",
+  "source_folder_id": "1Q0K_ehvZi4a_qM5VusJ8Utenu8Kfd4-k",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1j5y11lJRV9l1K770zhqLPVH88Th5Sb_i",
+      "name": "IMG20260308113446.jpg",
+      "checksum": "9624b922ffc6147d56f31b815e906e4a"
+    },
+    {
+      "id": "1F-g9mvI9XVLubrSyLYX6sfuVZ5UzBFCd",
+      "name": "P0003170.jpg",
+      "checksum": "c1dc1fca9701b431bb1a55f80e640b4e"
+    },
+    {
+      "id": "1XwLuFNapKQFE2z_j4tkRxtbPzN-N0Ifq",
+      "name": "P0003172.jpg",
+      "checksum": "184642071c93eae66e9f158faa5be651"
+    },
+    {
+      "id": "1q1rYzNmnYC7qjwHmVHwEYjZZn2wv1G0s",
+      "name": "P0003186.jpg",
+      "checksum": "76218a43d8368e9a805a1f8b90e2c9f7"
+    }
+  ]
+}

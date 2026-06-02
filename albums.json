@@ -1,5 +1,10 @@
 [
   {
+    "slug": "chaos",
+    "name": "Chaos",
+    "page_url": "albums/chaos.html"
+  },
+  {
     "slug": "on-the-ground",
     "name": "On The Ground",
     "page_url": "albums/on-the-ground.html"

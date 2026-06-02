@@ -1,0 +1,23 @@
+{
+  "album_name": "Red",
+  "slug": "red",
+  "source_folder_id": "1TRRp4DzaJSmzOcMMOsrGHteKmwT9whjd",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1ZHQJjoeibOa85hapCB1jNZ5E_2bd6dCm",
+      "name": "IMG20260407173436-1.jpg",
+      "checksum": "36a2646eb781b9f4c90a85879080f755"
+    },
+    {
+      "id": "1wGOkMj5vjVNwgYmp2a1DoiiduApHVaDT",
+      "name": "P0003273.jpg",
+      "checksum": "2e6db08d2bbe8598f6b17250cc2d267c"
+    },
+    {
+      "id": "19vC023VA9w-kDfFFxDJUotY0PJ4jhs66",
+      "name": "P0003275.jpg",
+      "checksum": "05bcb0c8ea0cb2a05dd90975f83a780c"
+    }
+  ]
+}
