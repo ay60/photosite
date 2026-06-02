@@ -1,0 +1,48 @@
+{
+  "album_name": "On The Ground",
+  "slug": "on-the-ground",
+  "source_folder_id": "1siHk66fJAdfnHDpZbvhFrBmkKSybc8P4",
+  "thumbnail_size": 320,
+  "images": [
+    {
+      "id": "1Falvbk3ypVwPfdCRcoWhtvn-thw85r7W",
+      "name": "IMG20260526185730.jpg",
+      "checksum": "6f4f161f8a82ebb91f6100b43337ca49"
+    },
+    {
+      "id": "12wZ5nvY1WkD6tqYmkskR7a2YL5VXA3ks",
+      "name": "IMG20260526190709.jpg",
+      "checksum": "ecb5b0c1254db7ebe2a964e33e94956a"
+    },
+    {
+      "id": "1JNgmR2Z8CzJRRQq96K4yfihpfgcRDrcp",
+      "name": "IMG20260527124957-1.jpg",
+      "checksum": "3e69d87fc3e2f48c89bfe0d443631f07"
+    },
+    {
+      "id": "1QOhvKZvIbWjChjnd5PXguMhcTLjUkE6Q",
+      "name": "P0003399.jpg",
+      "checksum": "3f74fe920827cf590e61968e48eba8df"
+    },
+    {
+      "id": "1KF_lC2ldjeE6BtVYi_ff8cn9tP9tMCKQ",
+      "name": "P0003401.jpg",
+      "checksum": "6ed720cd39ba372381b0942dbba79823"
+    },
+    {
+      "id": "1REjPYzt8iUGGy3BHTfzjPuN0wndy6SL2",
+      "name": "P0003403.jpg",
+      "checksum": "e3e6566d4002f063956b224a7c25c4b4"
+    },
+    {
+      "id": "16D1RMtqvTbvqx1ULRs4pQkeEWwal6p2Q",
+      "name": "P0003407.jpg",
+      "checksum": "ec6772481bb609805c58a40c141a6828"
+    },
+    {
+      "id": "1jChEXuBcftVaiygJCAgvHsJf2pMJQBMl",
+      "name": "P0003413.jpg",
+      "checksum": "3e1833d01309676d6fa21279dc1d5716"
+    }
+  ]
+}
