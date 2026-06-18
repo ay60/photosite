@@ -1,5 +1,10 @@
 [
   {
+    "slug": "2025-52frames-leading-lines",
+    "name": "2025 52frames Leading lines",
+    "page_url": "albums/2025-52frames-leading-lines.html"
+  },
+  {
     "slug": "chair",
     "name": "2026 52frames Chair",
     "page_url": "albums/chair.html"
@@ -30,6 +35,11 @@
     "page_url": "albums/red.html"
   },
   {
+    "slug": "self-portrait",
+    "name": "2026 52frames Self Portrait",
+    "page_url": "albums/self-portrait.html"
+  },
+  {
     "slug": "shallow-depth-of-field",
     "name": "2026 52frames Shallow Depth Of Field",
     "page_url": "albums/shallow-depth-of-field.html"
@@ -38,10 +48,5 @@
     "slug": "2026-52frames-triangular-composition",
     "name": "2026 52frames Triangular Composition",
     "page_url": "albums/2026-52frames-triangular-composition.html"
-  },
-  {
-    "slug": "self-portrait",
-    "name": "2026 52frames Self Portrait",
-    "page_url": "albums/self-portrait.html"
   }
 ]
