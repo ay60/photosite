@@ -1,0 +1,119 @@
+{
+  "album_name": "2026 Tahoe flowers",
+  "slug": "2026-tahoe-flowers",
+  "source_folder_id": "1VwKl_MibbZEe6yd_NEGcWgYLhij6BQxF",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1vaHbpw7Oq3PNJT0S19LuAIJOxbndWZy0",
+      "name": "IMG20260619164333.jpg",
+      "checksum": "e0e30d3c99218368a8b4e0ca1483bea3"
+    },
+    {
+      "id": "1o3w02FJu1YsLYIBzlArd3-bK9O-ywHVj",
+      "name": "IMG20260619164522.jpg",
+      "checksum": "9caf08b92a300c8706e66d9b21a62437"
+    },
+    {
+      "id": "1fDWx_TRYjy7OkBFHxM_SoEpE5WhhjMjD",
+      "name": "IMG20260619170349.jpg",
+      "checksum": "492f3de21658819a61248f68a106f767"
+    },
+    {
+      "id": "1ig6Hyzjzdsuj3k9H3FX_2B5owpf03A_F",
+      "name": "IMG20260619172937.jpg",
+      "checksum": "f281190ad35a8e05056092ceda87b63d"
+    },
+    {
+      "id": "1-pFgbXGAX-qDRK6cQLn10rmUAmh1H5qt",
+      "name": "IMG20260621140925.jpg",
+      "checksum": "4f8273aa52d384951484e86ae2e3f15c"
+    },
+    {
+      "id": "1LeNGDp-oBlF6EuYOARV6LPip33d2JyYY",
+      "name": "P0003450.jpg",
+      "checksum": "833af851ee76b43a91dcb3ef82d7b7db"
+    },
+    {
+      "id": "13giFj_adtToGVzOTZD_mRTOVB6Qq1NUs",
+      "name": "P0003511.jpg",
+      "checksum": "9859ce44f82a77c50649a5ed4e09a1c4"
+    },
+    {
+      "id": "1OXJ0Jt4pQRK2wVYAuOk7RgMiZMPjYdX-",
+      "name": "P0003521.jpg",
+      "checksum": "4b503450e0da6151e3146ab2576cd480"
+    },
+    {
+      "id": "1sciyhYtTIKSF-pl_Bi3CUc7e_772E__M",
+      "name": "P0003525.jpg",
+      "checksum": "2e1d43ca5e1b2d8b219466e3ccd401fe"
+    },
+    {
+      "id": "1GXpzl_5KLtTx4S5JI4esEIEN3EjbYyNT",
+      "name": "P0003528.jpg",
+      "checksum": "9c05c94d7c91ac59281a1b53d27c8202"
+    },
+    {
+      "id": "1WggW-2zLLHa153DBKCrPqlAdcvZ_Tgeb",
+      "name": "P0003530.jpg",
+      "checksum": "f10feec072053096f8f2ad610165257e"
+    },
+    {
+      "id": "16zQp9tC2LmUNUyU6rLoc2R127DM-qycO",
+      "name": "P0003532.jpg",
+      "checksum": "6b2b88d9b75ee12266a3310f280a72bc"
+    },
+    {
+      "id": "1S14wqDxlCaBHxXAet-ka4KCXx30katG8",
+      "name": "P0003535.jpg",
+      "checksum": "edf58894c3c410c74c20f77e0ccc1b7e"
+    },
+    {
+      "id": "1ECjk362bESdp0jIPTTZWPtslCA7Lq5M8",
+      "name": "P0003541.jpg",
+      "checksum": "45f9c07d1bdf330c35621573886d256d"
+    },
+    {
+      "id": "12MCJOfsfjb6YUaRadpE9TxtYAtqhF16N",
+      "name": "P0003543.jpg",
+      "checksum": "002556c4796f8b8ee3306e372fc28241"
+    },
+    {
+      "id": "1dvRMJYPHcLu78jlMl5AE524h4U-TVtyT",
+      "name": "P0003545.jpg",
+      "checksum": "3cc14592bef1d4e0cfcce49e92e28148"
+    },
+    {
+      "id": "197mzZ4zPBfruuCw3NB4X7-8vjXnlYLvP",
+      "name": "P0003547.jpg",
+      "checksum": "2b582053776fe407e763219ff40ff40c"
+    },
+    {
+      "id": "1mmjcEv3xuGqkE-Pwws8srKz0ELhshCBv",
+      "name": "P0003551.jpg",
+      "checksum": "04d9f5c31e0a49a31f12fc8ad203be69"
+    },
+    {
+      "id": "1kSrsOZOI9SbZjeN8D-LVXCKBjPbvd7-E",
+      "name": "P0003552.jpg",
+      "checksum": "bdf5bf07c1253ce6a920597cca5a2c03"
+    },
+    {
+      "id": "12a1qyISrAIzjeyvE9Lq--H5D0vBncCai",
+      "name": "P0003566.jpg",
+      "checksum": "030f09183a8258f1c54a3f1a48c08a1c"
+    }
+  ]
+}

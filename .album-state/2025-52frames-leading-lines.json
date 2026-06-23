@@ -1,0 +1,59 @@
+{
+  "album_name": "2025 52frames Leading lines",
+  "slug": "2025-52frames-leading-lines",
+  "source_folder_id": "1Em3LN9rO5gjLdR7f8cSrgIPHT-cLwqYB",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1RnuzuM4y-MWJrsGRF73R8Jo6DtNJs0Ks",
+      "name": "binokl_water.jpg",
+      "checksum": "c6815ecfa5282eafcbb04748859ff74f"
+    },
+    {
+      "id": "1v1cbWm9J_5xkxsaFUz9UoVZcIUqUqTlq",
+      "name": "branches_behind_blinds_bw.jpg",
+      "checksum": "c8f6897df831e78e9972b8851eab06ba"
+    },
+    {
+      "id": "1NpjXHOHR7p17dJJPkvvy3W4dWng4CK08",
+      "name": "candles_and_tree.jpg",
+      "checksum": "0e2f582b5f6f4ecbf08b3e7ded506268"
+    },
+    {
+      "id": "1th8eW5Cn0e0cMZiLVJtFElt3Av9veY6Z",
+      "name": "krok_upstairs_bw.jpg",
+      "checksum": "4779b5e48c8d6e289128e5d05be9a82c"
+    },
+    {
+      "id": "1U96HsUntte5j5XcHVJDiHf_xJliFQuyw",
+      "name": "krok_upstairs-1.jpg",
+      "checksum": "30c9cd2fdefc5b411b8b196ec007e6b1"
+    },
+    {
+      "id": "1GLoOOI48Fii_DZKKi1O0t_Dtd_NxYjNY",
+      "name": "krok_upstairs.jpg",
+      "checksum": "16a0f70247442550a641ab9422fa6828"
+    },
+    {
+      "id": "1mQFoc0QEbAX7B5VGuH_Jt22GIwi013W_",
+      "name": "w_bottle_on_the_floor.jpg",
+      "checksum": "ec93f300a646eadb39e3fa08b2821533"
+    },
+    {
+      "id": "1NMzMOrAqM-QqBOzvcsjSWZ6vqIHcOeR7",
+      "name": "wine_rac_and_sheep_in_the_middle.jpg",
+      "checksum": "b19bcf668ece92d7bdb7077ea85ae22d"
+    }
+  ]
+}
