@@ -1,0 +1,94 @@
+{
+  "album_name": "2026 52frames Wabi-Sabi",
+  "slug": "2026-52frames-wabi-sabi",
+  "source_folder_id": "1jjiWwqwDqUKH6ncjoARfm5hyDaNrgKWi",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1iGre9aJkx372tidwWk_Esjwxc9hsotCz",
+      "name": "IMG20260624120936.jpg",
+      "checksum": "ebe06a861c5257b5168f53ef3ff257a3"
+    },
+    {
+      "id": "1PwOWO_REX6zWMCpoaOTDMvUtcjL3J2n7",
+      "name": "IMG20260625190626.jpg",
+      "checksum": "bdc859ae17ca73c277df8f213ec4799d"
+    },
+    {
+      "id": "104FYr6TG_EVlXNULGPip2dBg2Oiux9kR",
+      "name": "P0003573.jpg",
+      "checksum": "c3f398e6b163e4170aa495576354a005"
+    },
+    {
+      "id": "1kaoVGCP4eVwuRgIZ3xcWEqmSqNDSjRXl",
+      "name": "P0003577.jpg",
+      "checksum": "80f706579c549bfde288e3dfd8090a2f"
+    },
+    {
+      "id": "1AAPRLp4Q4djLXk2pPFYTulJ_0JsxIGW_",
+      "name": "P0003581.jpg",
+      "checksum": "e34796ede47dd4940a91c5ba22b9235a"
+    },
+    {
+      "id": "1fLuT2Cwio1Pvec9G8LyTsl83fJlFvcsV",
+      "name": "P0003588.jpg",
+      "checksum": "19be671ead850f27a99e0a753412bbd3"
+    },
+    {
+      "id": "12glWZsXB7owgm47ViH1ZmM0hgfY_N10D",
+      "name": "P0003593.jpg",
+      "checksum": "93da16a4bfdcd67d1b7deff333c04c4c"
+    },
+    {
+      "id": "1JCgbstaTRWDjHXjtYcgExo86VXUGJafW",
+      "name": "P0003596.jpg",
+      "checksum": "202def4a74fb5ab13ee4269dbf36f141"
+    },
+    {
+      "id": "19970leYaiEXe0JzjydQrfYLDCNQYdaQq",
+      "name": "P0003597.jpg",
+      "checksum": "871ee8f6af4a854a5e5242244bcbdfd3"
+    },
+    {
+      "id": "11_AS-irnmL2AKYhSUC6no-H8zhWHoS-U",
+      "name": "P0003598.jpg",
+      "checksum": "3cae55caf7913f39a47749a0cd4ce663"
+    },
+    {
+      "id": "1rsy7B_k-2xhw-9Og9KvQeiNoiT7Y4ijo",
+      "name": "P0003601.jpg",
+      "checksum": "d787e6c600851917fda33a70f34319d2"
+    },
+    {
+      "id": "1WVzSXz1zRHNa1mRPHqWBZZkFRW6_4pTx",
+      "name": "P0003607.jpg",
+      "checksum": "e59083b9411c455b20d99efcba06bc78"
+    },
+    {
+      "id": "1a4Uje7pxce2py-88MSIVU2SQo08zFDLG",
+      "name": "P0003608.jpg",
+      "checksum": "196502542c161f89c0930ccf2615852c"
+    },
+    {
+      "id": "1c7HVGD9VPAa8BLwAd81YYx99DcV-kLrt",
+      "name": "P0003609.jpg",
+      "checksum": "8e616724b052d8fbb0f5c811ac898aef"
+    },
+    {
+      "id": "1_lcpgfA9cqXoe1btkCL-1F1Tvt4-bq0r",
+      "name": "P0003612.jpg",
+      "checksum": "052dabc385ccd88b243962036dbf3dc4"
+    }
+  ]
+}
