@@ -1,0 +1,29 @@
+{
+  "album_name": "2025 52frames Blue",
+  "slug": "2025-52frames-blue",
+  "source_folder_id": "1oXzXwCAn7XN4Ov1i6UYn7MlYMueMYuV1",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1LLMl3c3X9Oho1GNdOnsaArqogxLZST9I",
+      "name": "binokulars_over_water.jpg",
+      "checksum": "29160b42a2512b6636129bf497030151"
+    },
+    {
+      "id": "1sEqUZ3ZpicTC_keepcNmj6g0qh_FhWqV",
+      "name": "tahoe_blue_on_grayed_tree.jpg",
+      "checksum": "30b826dc898070c87265768e46d7635e"
+    }
+  ]
+}

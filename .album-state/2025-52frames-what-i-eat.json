@@ -1,0 +1,44 @@
+{
+  "album_name": "2025 52frames What I Eat",
+  "slug": "2025-52frames-what-i-eat",
+  "source_folder_id": "13p48VTOXKPQ4oV1hEWeomLU_SsXcV4ka",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "14f05DAfuO6KeMjdNFs1mmerymhqiFyMh",
+      "name": "coffe_cup_on_the_bed.jpg",
+      "checksum": "20d8a0210efb7cc10249f5e8af960bb0"
+    },
+    {
+      "id": "14hkuhNVWKqE8YHsoqpzNkKc2gZKtuRVG",
+      "name": "mil_and_kasha_bw.jpg",
+      "checksum": "a0e22a05d9c75cbb486721811708e028"
+    },
+    {
+      "id": "14wfQRp8yTvjUPmWaV91aHX8dafGzZLIU",
+      "name": "P0000098.jpg",
+      "checksum": "6d2ad6df1715905fa013684cd44f10c5"
+    },
+    {
+      "id": "14tgqwmTSdDJIwvZ98thKYgP0osudqO4G",
+      "name": "P0000108.jpg",
+      "checksum": "4f43b7de5a2042dbba672e85de4a9996"
+    },
+    {
+      "id": "14pNTBLhvNu98EJAVs82rewREn0iB0MNd",
+      "name": "P0000116.jpg",
+      "checksum": "48307cc5bd55cde07622c9bf96be16b2"
+    }
+  ]
+}

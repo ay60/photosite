@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Something Old",
+  "slug": "2025-52frames-something-old",
+  "source_folder_id": "1JTcY3utUlNTzYxCOlwaBKsjKzQ8Wpqzk",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1KDzabomm_Xtk-4h-mYJv8B57SE_ZQjOE",
+      "name": "old_knife_and_frost.jpg",
+      "checksum": "70f40e42f3d94044deb57bff58234a65"
+    },
+    {
+      "id": "1KiYk36h2O4kWS46OveLZgFMDG5y1QVK_",
+      "name": "old_knife_in_leafs_bw-1.jpg",
+      "checksum": "c4dad51c8ee01000af18cb362d7e61b8"
+    },
+    {
+      "id": "1JoAcktmFbUR6Mxdvq71UQyY2-RkUUDLF",
+      "name": "old_knife_in_leafs_oversat.jpg",
+      "checksum": "a84d146dc6801d9d6c0d14781ab4a68d"
+    },
+    {
+      "id": "1KwgoS8Y7u7d0fMs13QTZ4_w0hMSjMgU1",
+      "name": "pens_and_pencils_and_clock.jpg",
+      "checksum": "261606da5f703d6daad65e7589a83d96"
+    },
+    {
+      "id": "1-4Qm3g5t9n96VcuOYMUN7PbzzI7_KFKX",
+      "name": "pens_and_pencils_zoomed.jpg",
+      "checksum": "07708aada3f0264bd7d938de30a09fcf"
+    },
+    {
+      "id": "1KMI2fg-vj2gzzUiKBH6H3nyyFrnyJ6wP",
+      "name": "two_toys_seating.jpg",
+      "checksum": "5f405dd55e1d98211a6dfd727c8cb3c2"
+    }
+  ]
+}
