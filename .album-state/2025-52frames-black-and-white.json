@@ -1,0 +1,119 @@
+{
+  "album_name": "2025 52frames Black and White",
+  "slug": "2025-52frames-black-and-white",
+  "source_folder_id": "1HEAeQFkt6UUL7mZzOa2D57BP_u8V17jY",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "14ywDKy4MYcOTCirYPgvTwaC4J9hFWbs8",
+      "name": "doska_obyavlenii.jpg",
+      "checksum": "57a909d77e08be32ceac737245af20da"
+    },
+    {
+      "id": "1ST9Wk81QDZlPCS7zz9XzjNt3SabkFRJa",
+      "name": "ethernal_spring_shadow.jpg",
+      "checksum": "91d52042662f10d809d16445125aebea"
+    },
+    {
+      "id": "1pk_d9Get_fKibAsFf81sVSp3dmQ6gux8",
+      "name": "expecting_orcestra.jpg",
+      "checksum": "e6ef791f9a9de1f1899699f8aa3ae888"
+    },
+    {
+      "id": "1QBV62iN8KZIQVl3xMCq7ktGym08o7_19",
+      "name": "hermitage_dark_room.jpg",
+      "checksum": "2d1e0cded8b94bb87def23754530ffe7"
+    },
+    {
+      "id": "1rnnzXORiPOTAms9M5_Tq671meHTDA_XS",
+      "name": "hermitage_indoor_bridge.jpg",
+      "checksum": "c9b541220d6b277afe5cb2e073a73da3"
+    },
+    {
+      "id": "14_eBCE2CAxf8MI8WKRU1vHIiwb-80Sj6",
+      "name": "hermitage_internal_starirs.jpg",
+      "checksum": "cfb86e42cfa1c3cceceef7620197fa27"
+    },
+    {
+      "id": "1VYC1RhP_TyCLw0HD5QtDonV1n5ezImJv",
+      "name": "kabakovi_upstairs_1.jpg",
+      "checksum": "b69e6a21d8c7238bad0c1ea037bb6f3f"
+    },
+    {
+      "id": "1aX3t_mSfhu6BI8H-9fu0bKdqvMh96aox",
+      "name": "kabakovi_upstairs_2.jpg",
+      "checksum": "704a0d1213dfe4f0de48a84c74bbc623"
+    },
+    {
+      "id": "13ZSq4mbIv9CswA-kBE1JQK6SKOKEqv06",
+      "name": "kabakovi_upstairs_3.jpg",
+      "checksum": "cea4a35ffca572730d78e3446b03deaa"
+    },
+    {
+      "id": "1bfpulroWnGUicTUMdQNsGc_RqGiJ3EmM",
+      "name": "lift_mayakovskaya.jpg",
+      "checksum": "f0377685ddbb61501b1e898cad0ffa85"
+    },
+    {
+      "id": "1sQVDn2A30xw3P0jAgVdgcFtynYH34ucr",
+      "name": "sosnovka_1.jpg",
+      "checksum": "c1e8ba60a9db58efbb93f8d4d2949993"
+    },
+    {
+      "id": "12YYwIkazFR85T_TTi1j5judKxKxYXkTP",
+      "name": "sosnovka_2.jpg",
+      "checksum": "7a9fc5fa087626ae5163f60d720de2e6"
+    },
+    {
+      "id": "1OAUqoEtiKZ9vdD6fRg1r7sk3eiWhSwnr",
+      "name": "sosnovka_3.jpg",
+      "checksum": "bf0eadf8ef090237181ac7cb43625835"
+    },
+    {
+      "id": "1vuljYCGz2fAs2xLqKLmRVWl_TJRHUXzN",
+      "name": "sosnovka_4.jpg",
+      "checksum": "ae5aaad723b8fdd6550f9f7cffbfe47d"
+    },
+    {
+      "id": "1soBR95XZe3NltAOx34eMUxxjOkRWUILS",
+      "name": "sosnovka_5.jpg",
+      "checksum": "487a573753abd39f891240c0532a39c2"
+    },
+    {
+      "id": "1auJ66ola2gGobNI9F3EprHlWkUSveMl7",
+      "name": "sosnovka_young_trees.jpg",
+      "checksum": "231c8e26b82d32df7a448dfb65dc61c3"
+    },
+    {
+      "id": "1q4WT3c9l4yaH2l_gloVLh9FYfVKItfjm",
+      "name": "there_is_1.jpg",
+      "checksum": "82bb4230f317ab273e257779002361b0"
+    },
+    {
+      "id": "18qkOTPx6zQw4rcIKTEb99WX1gLpbb3R6",
+      "name": "there_is_2.jpg",
+      "checksum": "6832d2ac8181da30d5b1aaed2301d5bb"
+    },
+    {
+      "id": "1Ra8SBNUgRXAEki0ERQOO3EC9tAF0gfrR",
+      "name": "two_crows_on_ice_2.jpg",
+      "checksum": "dee67bd0c379fb38d874c4f7decd7bdd"
+    },
+    {
+      "id": "1mn1uUi5Tkc_-MmByvn4aSRxR-4yFx-fA",
+      "name": "two_crows_on_ice.jpg",
+      "checksum": "6742d7f17d72a64996e4d96ad652f1ea"
+    }
+  ]
+}

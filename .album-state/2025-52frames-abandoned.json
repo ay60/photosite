@@ -1,0 +1,59 @@
+{
+  "album_name": "2025 52frames Abandoned",
+  "slug": "2025-52frames-abandoned",
+  "source_folder_id": "1zBygOvvbNHSQmCF0Zw2fxCHJ-Le4YQnt",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1M9cZPIriaDbogeWkwjgIbB5uPZ7OkdmM",
+      "name": "IMG20250813200145.jpg",
+      "checksum": "bd78062808c47a1e56bff73838ff5456"
+    },
+    {
+      "id": "1ccFR-E7TU4oJE5mdlhGxerWk7xnTuYBY",
+      "name": "IMG20250813200220.jpg",
+      "checksum": "761590d80a14fb12837a22fd131204e8"
+    },
+    {
+      "id": "1sblN7dFGRU0wZ0VOBTaVgxiB03iOwj3e",
+      "name": "IMG20250814094205-1.jpg",
+      "checksum": "72d6312bc1d6972efae59b8dca8755e6"
+    },
+    {
+      "id": "1otPpTSZezA9zDL_B5NxFFAMQ7BxTTruQ",
+      "name": "P0002328.jpg",
+      "checksum": "8d7ef28c9211714fa6679e8237a71b22"
+    },
+    {
+      "id": "1ZAckCw5aGC8FW2e67o5TP60n7NoIraXp",
+      "name": "P0002329.jpg",
+      "checksum": "42341a89825c1eb0ec16ea6aad953e75"
+    },
+    {
+      "id": "1XwVuv0ydFf59fRdJF4znpxFBgaZGezIm",
+      "name": "P0002333.jpg",
+      "checksum": "3e502e0d66d416ba34df57afc96b09da"
+    },
+    {
+      "id": "1gXcmLXR-DXJXO3St51WsPc8Weiwioyhi",
+      "name": "P0002336-1.jpg",
+      "checksum": "1dd99c14dad99d8618c49e2c49ddb5d3"
+    },
+    {
+      "id": "1ddbkZvZcg0Id1NJGyaSqR6hCufi0syoh",
+      "name": "P0002339.jpg",
+      "checksum": "01232ab09a73a9d77a6b3d5eaea082ee"
+    }
+  ]
+}

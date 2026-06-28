@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Daily Ritual",
+  "slug": "2025-52frames-daily-ritual",
+  "source_folder_id": "1ZZhXB1ONCvrMxi6k2O6IPa1fpb7ldXQf",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1fbxJJrLwWi4Dl2XZYBLvUbJpJJUoqr3o",
+      "name": "IMG20250618194222.jpg",
+      "checksum": "b5cb3e06cadca143534375f0a5de68e0"
+    },
+    {
+      "id": "1erBNOIggrvULacMP1nA7p1xmGCcctwxO",
+      "name": "P0002102.jpg",
+      "checksum": "e34ec205057277c50a31b10db4434bf7"
+    },
+    {
+      "id": "169T48tN8sk4h3BMDpua3hczfkrlmhqz6",
+      "name": "P0002104.jpg",
+      "checksum": "b3044c6f1c258abc655417fc526ac750"
+    },
+    {
+      "id": "1wVuZygksZE4LSexe0bkj3pVbZ7_aTW63",
+      "name": "P0002105.jpg",
+      "checksum": "ec6d217eeb48a5dbd29feb262a3a2e14"
+    },
+    {
+      "id": "1oonoov-oJBc7tX6Nw_nCZDfhU0HonNFW",
+      "name": "P0002124.jpg",
+      "checksum": "3ad0b311a86b524eae686569bd99f717"
+    },
+    {
+      "id": "1-kc3e0KiwgXMMTm3AwMSChB1RKBjAWXt",
+      "name": "P0002126.jpg",
+      "checksum": "26d60f766b39632ac55fd96bcd8bf83f"
+    }
+  ]
+}

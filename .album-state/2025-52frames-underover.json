@@ -1,0 +1,44 @@
+{
+  "album_name": "2025 52frames UnderOver",
+  "slug": "2025-52frames-underover",
+  "source_folder_id": "1G2iTH0rXl6RNtuviAClrioPhxx2qWkv3",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "10rt4uAyzS7OaIUoz3lAqhhXMUpCGe4Xx",
+      "name": "flowers_shadow.jpg",
+      "checksum": "85bc97674ebfcc7e37adf36659e0c763"
+    },
+    {
+      "id": "1z49kDhw-EEap8lu1uirbyXpn59nVvJr2",
+      "name": "interlaken.jpg",
+      "checksum": "bee050eed6460c5ba01d5004bcd64d35"
+    },
+    {
+      "id": "1fE-QBhX9XVbYgW9p6R4znvaRyWIOQiZ5",
+      "name": "verdi_brahms_on_sofa.jpg",
+      "checksum": "3d3ec1f1f0d6704f75eef8afc54f14ed"
+    },
+    {
+      "id": "1CDpmo18wn6t33wEXrX8wNK-IV2nceWQk",
+      "name": "verdi_on_floor.jpg",
+      "checksum": "5ce23e3dbee6f6f73a18eb40f687333b"
+    },
+    {
+      "id": "1yUcmdRm2GjH28B0TDNcireKLA0l6lXb9",
+      "name": "verdi_on_sofa.jpg",
+      "checksum": "5d1449d78c9b4bcd4a0f6bee99eee1f7"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "album_name": "2025 52frames Blur",
+  "slug": "2025-52frames-blur",
+  "source_folder_id": "1xiDhEM17WkFIwD8AM5GbImp4-dAJ6vXz",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1SfITWyDCMGoRE1izVbGYUXOHtA3ZLBvl",
+      "name": "bicycle_brighter.jpg",
+      "checksum": "ef154b9c1cf83ab67d8e381a821e0d1c"
+    },
+    {
+      "id": "1X1yqkZIWvNqS2i3XZ-cb248MLtcfoNWX",
+      "name": "bicycle.jpg",
+      "checksum": "4ee4e9671db212c7519b2734f9533fd2"
+    },
+    {
+      "id": "1eFPbqHNGgYerXJXbkgApNjRMCTuPWWdd",
+      "name": "passing_bus.jpg",
+      "checksum": "167964fe9d79426954714a9fe2d3b5bf"
+    },
+    {
+      "id": "1CX6FfZCtULegTkbR5YINQ1w-2VHxVADc",
+      "name": "tram.jpg",
+      "checksum": "166873d4eb1a43030c25451c8846f72c"
+    }
+  ]
+}

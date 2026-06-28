@@ -1,8 +1,23 @@
 [
   {
+    "slug": "2025-52frames-abandoned",
+    "name": "2025 52frames Abandoned",
+    "page_url": "albums/2025-52frames-abandoned.html"
+  },
+  {
+    "slug": "2025-52frames-black-and-white",
+    "name": "2025 52frames Black and White",
+    "page_url": "albums/2025-52frames-black-and-white.html"
+  },
+  {
     "slug": "2025-52frames-black-and-white-minimalism",
     "name": "2025 52frames Black And White Minimalism",
     "page_url": "albums/2025-52frames-black-and-white-minimalism.html"
+  },
+  {
+    "slug": "2025-52frames-blur",
+    "name": "2025 52frames Blur",
+    "page_url": "albums/2025-52frames-blur.html"
   },
   {
     "slug": "2025-52frames-cramped",
@@ -10,9 +25,29 @@
     "page_url": "albums/2025-52frames-cramped.html"
   },
   {
+    "slug": "2025-52frames-daily-ritual",
+    "name": "2025 52frames Daily Ritual",
+    "page_url": "albums/2025-52frames-daily-ritual.html"
+  },
+  {
+    "slug": "2025-52frames-eggs",
+    "name": "2025 52frames Eggs",
+    "page_url": "albums/2025-52frames-eggs.html"
+  },
+  {
     "slug": "2025-52frames-fill-the-frame",
     "name": "2025 52frames Fill the Frame",
     "page_url": "albums/2025-52frames-fill-the-frame.html"
+  },
+  {
+    "slug": "2025-52frames-frame-within-a-frame",
+    "name": "2025 52frames Frame Within A Frame",
+    "page_url": "albums/2025-52frames-frame-within-a-frame.html"
+  },
+  {
+    "slug": "2025-52frames-high-iso",
+    "name": "2025 52frames High ISO",
+    "page_url": "albums/2025-52frames-high-iso.html"
   },
   {
     "slug": "2025-52frames-leading-lines",
@@ -20,14 +55,39 @@
     "page_url": "albums/2025-52frames-leading-lines.html"
   },
   {
+    "slug": "2025-52frames-low-key",
+    "name": "2025 52frames Low Key",
+    "page_url": "albums/2025-52frames-low-key.html"
+  },
+  {
+    "slug": "2025-52frames-mood",
+    "name": "2025 52frames Mood",
+    "page_url": "albums/2025-52frames-mood.html"
+  },
+  {
     "slug": "2025-52frames-nature",
     "name": "2025 52frames Nature",
     "page_url": "albums/2025-52frames-nature.html"
   },
   {
+    "slug": "2025-52frames-negative-space",
+    "name": "2025 52frames Negative Space",
+    "page_url": "albums/2025-52frames-negative-space.html"
+  },
+  {
     "slug": "2025-52frames-redo",
     "name": "2025 52frames Redo",
     "page_url": "albums/2025-52frames-redo.html"
+  },
+  {
+    "slug": "2025-52frames-reflections",
+    "name": "2025 52frames Reflections",
+    "page_url": "albums/2025-52frames-reflections.html"
+  },
+  {
+    "slug": "2025-52frames-shallow-depth-of-field",
+    "name": "2025 52frames Shallow Depth of Field",
+    "page_url": "albums/2025-52frames-shallow-depth-of-field.html"
   },
   {
     "slug": "2025-52frames-shoot-from-above",
@@ -38,6 +98,26 @@
     "slug": "2025-52frames-texture",
     "name": "2025 52frames Texture",
     "page_url": "albums/2025-52frames-texture.html"
+  },
+  {
+    "slug": "2025-52frames-triangle",
+    "name": "2025 52frames Triangle",
+    "page_url": "albums/2025-52frames-triangle.html"
+  },
+  {
+    "slug": "2025-52frames-underover",
+    "name": "2025 52frames UnderOver",
+    "page_url": "albums/2025-52frames-underover.html"
+  },
+  {
+    "slug": "2025-52frames-unfinished",
+    "name": "2025 52frames Unfinished",
+    "page_url": "albums/2025-52frames-unfinished.html"
+  },
+  {
+    "slug": "2025-52frames-water",
+    "name": "2025 52frames Water",
+    "page_url": "albums/2025-52frames-water.html"
   },
   {
     "slug": "2025-52frames-your-worst-nightmare",

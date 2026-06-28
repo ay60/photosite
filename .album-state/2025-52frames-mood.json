@@ -1,0 +1,44 @@
+{
+  "album_name": "2025 52frames Mood",
+  "slug": "2025-52frames-mood",
+  "source_folder_id": "1M6ZW72RGdVu_J5hk3Z1JSjqONqoMAAPd",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "15Wp9YReF922F91C7DkVEOJBDmPO5RjQi",
+      "name": "morning_fog_1.jpg",
+      "checksum": "234499ae91eb60b12e4a3e718d4db5ee"
+    },
+    {
+      "id": "1DTOwEr6ha5gwa_Up7q8vo8nAWP2xfKnu",
+      "name": "morning_fog_3.jpg",
+      "checksum": "9c45bc5d2f1e4bfe72f69c8428a42505"
+    },
+    {
+      "id": "1_rK5gp6zy179ULL9mzZ8bNhVp9W3Cr5T",
+      "name": "sad_lamp_2.jpg",
+      "checksum": "52dfe0d43c90548a4c74d31c2dcbf281"
+    },
+    {
+      "id": "17gLYIeiU1gRtLFGPIhNb9bCNDcu1g-z_",
+      "name": "two_toys_2.jpg",
+      "checksum": "c01e6d2bfa9519f909badff298f35ea0"
+    },
+    {
+      "id": "1DOckZNZsShcIZOn4z2pdeIyfaqS87uyB",
+      "name": "very_sad_dog.jpg",
+      "checksum": "0838be422491750a78d0f5d72b5b43fc"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "album_name": "2025 52frames Water",
+  "slug": "2025-52frames-water",
+  "source_folder_id": "1vi91LZNVcAJui513S03VhI0B1Y1TY8sK",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1noPgDgcJtMtji1CTqbQjW-JlCGkmE3J8",
+      "name": "IMG_5741.jpg",
+      "checksum": "70f124588d93516ea65d5d423e4a1f1d"
+    },
+    {
+      "id": "1LFEmzFfOwkCPGoJCA2JiFalT0LncKQAs",
+      "name": "IMG_5748.jpg",
+      "checksum": "23b158b7672a1bb504f1ec0b2bbdf754"
+    },
+    {
+      "id": "1TKT5DS5atGVu_rBs2rUSc-CWnjL27ZAN",
+      "name": "IMG_5752.jpg",
+      "checksum": "a8f15af9d8f63b410de8fcb906c8fec0"
+    },
+    {
+      "id": "1t0rzGl8VPisocGIwM5QaFHx-2dAMukkp",
+      "name": "IMG20250514130821.jpg",
+      "checksum": "d0e2082d585cfaa75059b37f1877afe4"
+    },
+    {
+      "id": "1aOancOSovkgHwMQpnt2S9FnOe9J_JNMr",
+      "name": "P0001554.jpg",
+      "checksum": "974a10ee39bc45fafc3dfae08154a611"
+    },
+    {
+      "id": "1pmWzTcFrC5_xVvjcBuwCOult-Qlp5V4x",
+      "name": "P0001557.jpg",
+      "checksum": "8ce2aa5d76da468df345b9cac615fb9d"
+    },
+    {
+      "id": "1P67PGx7UwbZJJahZcRKVecDFk_ItP-YT",
+      "name": "P0001563.jpg",
+      "checksum": "4b505d5f88686a6044354d814023b570"
+    }
+  ]
+}

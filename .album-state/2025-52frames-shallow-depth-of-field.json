@@ -1,0 +1,64 @@
+{
+  "album_name": "2025 52frames Shallow Depth of Field",
+  "slug": "2025-52frames-shallow-depth-of-field",
+  "source_folder_id": "1BTqJY8pxvlMlJVbroMkUNQ3utOdOHuhX",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1ZeQSMcHL-5LM18ebg7bFS4YGpQ_WDz-m",
+      "name": "drops_on_rose_branches_2.jpg",
+      "checksum": "dffa63a9a9f483e6cff1df0b9ddf3c04"
+    },
+    {
+      "id": "1SHwJzwlIMM7P0FNh-vxhB2Zl9VZML_vl",
+      "name": "drops_on_rose_branches_bw.jpg",
+      "checksum": "fec65ea8763d66c5b73f70ae07746ff0"
+    },
+    {
+      "id": "1WR2ZEEU6HUdO5ZYHbRQnxiLNpSeJ-sdJ",
+      "name": "drops_on_rose_branches.jpg",
+      "checksum": "01077349ac41a5f66bfc2ba19f9881cc"
+    },
+    {
+      "id": "1tJ5L84ppf_LEecQUq-65kY6sNXYlS70s",
+      "name": "drops_on_window_flowers_behind.jpg",
+      "checksum": "61f09167b2d90d42cde0798770e93929"
+    },
+    {
+      "id": "1JqHWhPZNqH4gRdSx2lOvo72gevMhMhS1",
+      "name": "moss_and_branches.jpg",
+      "checksum": "7dae2b33647c54edf86170525721f43d"
+    },
+    {
+      "id": "1Z7tFcZtWqVjS0Bey6OM1Tetaa1vy9D4g",
+      "name": "red_flowers_tree.jpg",
+      "checksum": "f732c8f25e1a6a55bdeaeacd2c9932e8"
+    },
+    {
+      "id": "1rEzWVCaFN5I_-OMG-5WPlVZ1f_nf19WC",
+      "name": "red_petals_and_green.jpg",
+      "checksum": "c9fc43bc8a5af43f1337ca8d66f3c20d"
+    },
+    {
+      "id": "1zwpa2xzAIn7aSBM_sJEhrXJZIdKOky0I",
+      "name": "white_flower.jpg",
+      "checksum": "07df45761da91fa2a2dd13614ae1fe3e"
+    },
+    {
+      "id": "1gjyzxAI6ZHCXKnwl082b0ZpDOcqhFrrq",
+      "name": "yellow_flowers.jpg",
+      "checksum": "ed2608467107dc0b59db4098e4af73c8"
+    }
+  ]
+}

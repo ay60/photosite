@@ -1,0 +1,44 @@
+{
+  "album_name": "2025 52frames Triangle",
+  "slug": "2025-52frames-triangle",
+  "source_folder_id": "1wq_C1EHiGO1rPumrLBUQ07kwXy5bQvjO",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "17iFBJXC4u6JZKFfs-vp6IOZpAANKglI2",
+      "name": "dark_arch.jpg",
+      "checksum": "15eba1d2be95f0fcb99f83fee3573fc7"
+    },
+    {
+      "id": "1zke0ohqkK7QGoaF1jimpiKdYrlO-4fL3",
+      "name": "funicular.jpg",
+      "checksum": "22276327a29ea07e7cca279ff21e69a2"
+    },
+    {
+      "id": "1azB89bRxv6J-KnfcnxtrO8Jd5zQt7kSc",
+      "name": "narrow_street_going_up.jpg",
+      "checksum": "565f13a06f9881076abe1c8a6f321b9d"
+    },
+    {
+      "id": "1NdboxatCUFLc19yw_Mq58mCxlaLjJw12",
+      "name": "P0000738.jpg",
+      "checksum": "fd6d376f09aa87af031f12886aebf811"
+    },
+    {
+      "id": "1uQ9PMtpowLmIH9PLYFES0cAPuDxHsFh6",
+      "name": "terrace.jpg",
+      "checksum": "22fec003e7462f06076c7bd0de5e123f"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Eggs",
+  "slug": "2025-52frames-eggs",
+  "source_folder_id": "11uF_O0OyPUxmnZd2-A2wAd1yKahBycsa",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1qxtxPIoYS5J6B8BGa4STNJffKI1nbnGq",
+      "name": "egg_and_shell_1.jpg",
+      "checksum": "7e64056d787acf9d67c0e3c9d862d5d3"
+    },
+    {
+      "id": "1Lg0H2C8lGlwe1-iSojjcn50TRXKOfg0S",
+      "name": "egg_and_shell_2.jpg",
+      "checksum": "64ee61f488171e8855d3f6513e90a8f2"
+    },
+    {
+      "id": "1f1yYn4WH6TJZ83tov6YLaqpbR_pSlOMi",
+      "name": "egg_and_shell_from_above_1.jpg",
+      "checksum": "62d3216f1a846217eac65c071d5f2cb8"
+    },
+    {
+      "id": "1Ok0tFKZYmsqMs2oPOfGm6BxbPtcsIVjF",
+      "name": "egg_and_shell_from_above_3.jpg",
+      "checksum": "ae44d56148a502dca427cd8fd67f7b09"
+    },
+    {
+      "id": "1aHAOkj2zYK7xeCaWCZaFLER3yIRDHM3e",
+      "name": "egg_and_shell_from_above_col_1.jpg",
+      "checksum": "0d9a7ce3cd799ee1b1f3d1e675dfdcea"
+    },
+    {
+      "id": "1_Q9Dzgimq2CpLrV9gMpjByG-FREu6hX1",
+      "name": "egg_on_shelf.jpg",
+      "checksum": "a2f8b5b56d2e8872ff74a24838ca1918"
+    }
+  ]
+}

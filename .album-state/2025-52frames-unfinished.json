@@ -1,0 +1,59 @@
+{
+  "album_name": "2025 52frames Unfinished",
+  "slug": "2025-52frames-unfinished",
+  "source_folder_id": "1xufPHiOz8h1ZhQJudFQ-XhhB_KCLBAvG",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1dVWW7lwJIRR_Gl_3I9n8-N5iSugV1Vk3",
+      "name": "bread_and_tea.jpg",
+      "checksum": "0329b25abb4f9eaf175656d663f80084"
+    },
+    {
+      "id": "18g461zSPBHbXFOgxtYIOfvp1PADWw5HT",
+      "name": "comp_notes_chocolate.jpg",
+      "checksum": "30a3f7a03cced1854c89d00eca337292"
+    },
+    {
+      "id": "1Opllv5xs2HnsIETfYzBdRdFXiMAKb_cA",
+      "name": "construction_bw.jpg",
+      "checksum": "404dbd234eace78f368a0ba897889f50"
+    },
+    {
+      "id": "1--4q8O1jwONhse7UOfG9LsaCRj0lPGMV",
+      "name": "cookie_and_jam.jpg",
+      "checksum": "2f54ee1067955284b3f5c8b307619168"
+    },
+    {
+      "id": "10k9KgWZapvc__oldkz7rncoD-x_u9YaT",
+      "name": "fruits_sun_3.jpg",
+      "checksum": "9cb382a361f93da229d55e6a9a51e38a"
+    },
+    {
+      "id": "1-D5v2dfLOZK8voEvHpkX4eISj9iikw03",
+      "name": "fruits_wine_sun_1.jpg",
+      "checksum": "dda0a8a4d6e5fac379070cdccf03ba2c"
+    },
+    {
+      "id": "1SNZPGUJJI2YMndvgYL3PXN-6cC3YrU6n",
+      "name": "notebook_and_pen.jpg",
+      "checksum": "32e172bf5146715dde3fed8c1835da78"
+    },
+    {
+      "id": "1L31OVuSHmpCWdBZFOzjgggyACo5vWZ5K",
+      "name": "notebook_pen_coffe_rain_bw.jpg",
+      "checksum": "2028c22b881e0de3513b3621d0c0bc6c"
+    }
+  ]
+}
