@@ -1,0 +1,29 @@
+{
+  "album_name": "2025 52frames Your Worst Nightmare",
+  "slug": "2025-52frames-your-worst-nightmare",
+  "source_folder_id": "1odQQdyuyhQ6mBJqBgoFbVTQT1ueBlB7_",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1CatqOjAmnbFJXecDxaoMDbM-2okcppND",
+      "name": "IMG20251027120830.jpg",
+      "checksum": "8764d96abfd30f87ec9ff871243d85a2"
+    },
+    {
+      "id": "1-iVCzI9TFnnOH2GpENxPzwfN6FIkgsFh",
+      "name": "P0002778.jpg",
+      "checksum": "e528426aa694fb71b6cf2afe26862f47"
+    }
+  ]
+}

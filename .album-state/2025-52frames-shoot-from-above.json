@@ -1,0 +1,39 @@
+{
+  "album_name": "2025 52frames Shoot From Above",
+  "slug": "2025-52frames-shoot-from-above",
+  "source_folder_id": "1eGk3qTHPmWE4LK-qgdidyxqU3xFyvOze",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1ayw4QKy6mwbq1R-zflBT8O64Q0wHviZV",
+      "name": "IMG20250901152957-1.jpg",
+      "checksum": "875246ce8df2e6d0342075b43f59b8fc"
+    },
+    {
+      "id": "1iBuup9xXZeTMiau9IqLLU0NdQign4fL6",
+      "name": "P0002371.jpg",
+      "checksum": "465f05833fba4fc351bd517422cb2967"
+    },
+    {
+      "id": "1SXbRgLEK0Sy2tfBa_zCTDeIIueHCCzsx",
+      "name": "P0002375.jpg",
+      "checksum": "e5f7cfed9e30e7b6c821bf536d77cf5d"
+    },
+    {
+      "id": "15XU85-U-ayolgkoHeYhbmpvSAN8pWD9n",
+      "name": "P0002377.jpg",
+      "checksum": "276752fe66bad6670d5c3c1c71cba8c9"
+    }
+  ]
+}

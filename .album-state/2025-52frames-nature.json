@@ -1,0 +1,34 @@
+{
+  "album_name": "2025 52frames Nature",
+  "slug": "2025-52frames-nature",
+  "source_folder_id": "1vtWXEnXtMWbCIbd5bam8kYP-Lfrw_rcn",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1LdpRlwopElPkADyvdBjHUVoRCd9gFTFD",
+      "name": "P0002906.jpg",
+      "checksum": "4de61c1d87ef7d23c06bfbb0359fe138"
+    },
+    {
+      "id": "14pD1a1ljWsGe2ZjrjviAJIqVlDmtByYz",
+      "name": "P0002907.jpg",
+      "checksum": "72bdecc80b247cae61759d49079d6291"
+    },
+    {
+      "id": "1uclJ6WxgQqY9vcg9xo2pA6x6DaYw44-7",
+      "name": "P0002909.jpg",
+      "checksum": "cf905aa553fb55b2d5fb8a37b439bc53"
+    }
+  ]
+}

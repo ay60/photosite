@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Cramped",
+  "slug": "2025-52frames-cramped",
+  "source_folder_id": "1yehFLaa4NbdankYMoOdARcW-KCn5NJkv",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "13KhWtQ--MurtS5WbP4WJXgC8ZGTdTne-",
+      "name": "IMG_5701.jpg",
+      "checksum": "2cf97bd3a36ada45b28f10714d55c4f1"
+    },
+    {
+      "id": "1TsUYFuF4ywgke8r22qXJpdXlFhReDDRs",
+      "name": "IMG_5704.jpg",
+      "checksum": "3cfe66a5bfbaa653b2b282360c02d159"
+    },
+    {
+      "id": "1vC_EBg2_5bhy0NItN2yKaSN1g85EOWP3",
+      "name": "IMG_5709.jpg",
+      "checksum": "c176bdb96f3241cd146cb33ffa900572"
+    },
+    {
+      "id": "1ahxW9Dk26nfOTAW0ImFzediDux1GkuEu",
+      "name": "IMG_5711.jpg",
+      "checksum": "ad3e0c86d1167031515622f151f2b015"
+    },
+    {
+      "id": "1_vQOYqrc_h8Z8fHQsdkrZj_G5LloEFrP",
+      "name": "IMG20250426185855_HR.jpg",
+      "checksum": "76403f422d3cc8090535469cc640eaf0"
+    },
+    {
+      "id": "1IzRg9AC5Jj8LiHy7bVbTFbmw7-sGRQ71",
+      "name": "IMG20250426190136_fish_eye.jpg",
+      "checksum": "01f2a169329ab814668d69acf458de68"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Texture",
+  "slug": "2025-52frames-texture",
+  "source_folder_id": "1C0S6Lzv9Dzr9OltDySrFktOA7kjTi0rO",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1dDfJrnJN2nddBJIIoJ5SHUkUgQnrfLA5",
+      "name": "P0002522-1.jpg",
+      "checksum": "f51c98254cc092d5d54d908ce53a616c"
+    },
+    {
+      "id": "1p7XKZ2JRDMU12Js1UZ2phneoYf5DxdLS",
+      "name": "P0002522.jpg",
+      "checksum": "ae0a3bb5200935610a56a2ec7cbaa571"
+    },
+    {
+      "id": "1nlir-08NtWve5Pdx5RV1hO5gAyptIBTR",
+      "name": "P0002531.jpg",
+      "checksum": "a48dabfb82e77a23eca9f79a28f8051a"
+    },
+    {
+      "id": "1xRdTAWytB1tQomNzBw1ysnpmdgCGAFRh",
+      "name": "P0002541.jpg",
+      "checksum": "0a4438deaa3b5b0c870991a751f0c73e"
+    },
+    {
+      "id": "1JWXhYNc2y6d0g5NuBBYBWiKCKnpKhKAT",
+      "name": "P0002542.jpg",
+      "checksum": "c9bbb4631abf30e3f9d4a8f811f6c689"
+    },
+    {
+      "id": "11VJN6Xi7DLu1QtpFsFlKlJo9jnsT5Ne9",
+      "name": "P0002543.jpg",
+      "checksum": "53769539ef5da03be3775ec4d42ae697"
+    }
+  ]
+}

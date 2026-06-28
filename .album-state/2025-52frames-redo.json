@@ -1,0 +1,49 @@
+{
+  "album_name": "2025 52frames Redo",
+  "slug": "2025-52frames-redo",
+  "source_folder_id": "1CUI2GqrQHiq4fPMAWGLbbse3GqZR96G6",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1fYpj85emJqxJB0Jdvbj8lroAjUw9TUDm",
+      "name": "P0002953.jpg",
+      "checksum": "d06e32150239efc24e64a824846f498a"
+    },
+    {
+      "id": "17cORW_QSPcqLjGnMcA8UpQ3vQteQlWYu",
+      "name": "P0002955.jpg",
+      "checksum": "416ffe468360bc63de2e46c34c06c5dd"
+    },
+    {
+      "id": "1O7bTxoztw4dYPj2A2aE3AezJWrJBL0eY",
+      "name": "P0002956-1.jpg",
+      "checksum": "edfab991e0c69a96ebba4a190087587f"
+    },
+    {
+      "id": "13n-IQbGjqZEZ-RemY9lTDyS8v4rBrQ4y",
+      "name": "P0002959.jpg",
+      "checksum": "dd3d012d641f027bdf6b1cb1f2921c60"
+    },
+    {
+      "id": "1vIhLots3PRNaTRE2xjBtMW-x30miweaB",
+      "name": "P0002960.jpg",
+      "checksum": "3615539d818d3df6533270a6da02ea6d"
+    },
+    {
+      "id": "1hM0pRdGpLKfu11a_ssulIpWi81YChbtJ",
+      "name": "P0002961.jpg",
+      "checksum": "267328d2ceabc51baf7a3276a113427d"
+    }
+  ]
+}

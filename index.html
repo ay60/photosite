@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Albums</title>
   <meta property="og:title" content="Albums">
-  <meta property="og:description" content="12 albums">
+  <meta property="og:description" content="20 albums">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://ay60.github.io/photosite/index.html">
-  <meta property="og:image" content="https://ay60.github.io/photosite/albums/2026-52frames-wabi-sabi.jpg">
+  <meta property="og:image" content="https://ay60.github.io/photosite/albums/2025-52frames-shoot-from-above.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -20,7 +20,7 @@
       color: #1f1a17;
     }
     main {
-      max-width: 760px;
+      max-width: 960px;
       margin: 0 auto;
       padding: 48px 24px 72px;
     }
@@ -32,42 +32,142 @@
       margin: 0 0 28px;
       color: #695e58;
     }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
+    .album-grid {
       display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
       gap: 12px;
+      margin: 0;
+      padding: 0;
     }
-    a {
-      display: block;
-      padding: 16px 18px;
+    .album-card {
+      display: grid;
+      grid-template-columns: 44px minmax(0, 1fr);
+      align-items: center;
+      gap: 12px;
+      min-height: 68px;
+      padding: 12px 14px;
       border: 1px solid #d7cdc3;
       border-radius: 16px;
       color: inherit;
       background: #fffdf9;
       text-decoration: none;
+      box-shadow: 0 10px 24px rgba(56, 37, 20, 0.06);
+      transition: transform 140ms ease, box-shadow 140ms ease, border-color 140ms ease;
+    }
+    .album-card:hover {
+      transform: translateY(-1px);
+      border-color: #c5b8ab;
+      box-shadow: 0 14px 28px rgba(56, 37, 20, 0.1);
+    }
+    .album-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      object-fit: cover;
+      display: block;
+      background: #efe5da;
+    }
+    .album-name {
+      font-size: 0.98rem;
+      line-height: 1.3;
+      overflow-wrap: anywhere;
+    }
+    @media (max-width: 520px) {
+      main {
+        padding-inline: 16px;
+      }
+      .album-grid {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
 <body>
   <main>
     <h1>Albums</h1>
-    <p>12 albums</p>
-    <ul>
-      <li><a href="albums/2025-52frames-leading-lines.html">2025 52frames Leading lines</a></li>
-      <li><a href="albums/chair.html">2026 52frames Chair</a></li>
-      <li><a href="albums/chaos.html">2026 52frames Chaos</a></li>
-      <li><a href="albums/complementary-colors.html">2026 52frames Complementary Colors</a></li>
-      <li><a href="albums/get-low.html">2026 52frames Get Low</a></li>
-      <li><a href="albums/on-the-ground.html">2026 52frames On The Ground</a></li>
-      <li><a href="albums/red.html">2026 52frames Red</a></li>
-      <li><a href="albums/self-portrait.html">2026 52frames Self Portrait</a></li>
-      <li><a href="albums/shallow-depth-of-field.html">2026 52frames Shallow Depth Of Field</a></li>
-      <li><a href="albums/2026-52frames-triangular-composition.html">2026 52frames Triangular Composition</a></li>
-      <li><a href="albums/2026-52frames-wabi-sabi.html">2026 52frames Wabi-Sabi</a></li>
-      <li><a href="albums/2026-tahoe-flowers.html">2026 Tahoe flowers</a></li>
-    </ul>
+    <p>20 albums</p>
+    <section class="album-grid">
+    <a class="album-card" href="albums/2025-52frames-black-and-white-minimalism.html">
+      <img class="album-icon" src="albums/2025-52frames-black-and-white-minimalism.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Black And White Minimalism</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-cramped.html">
+      <img class="album-icon" src="albums/2025-52frames-cramped.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Cramped</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-fill-the-frame.html">
+      <img class="album-icon" src="albums/2025-52frames-fill-the-frame.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Fill the Frame</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-leading-lines.html">
+      <img class="album-icon" src="albums/2025-52frames-leading-lines.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Leading lines</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-nature.html">
+      <img class="album-icon" src="albums/2025-52frames-nature.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Nature</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-redo.html">
+      <img class="album-icon" src="albums/2025-52frames-redo.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Redo</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-shoot-from-above.html">
+      <img class="album-icon" src="albums/2025-52frames-shoot-from-above.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Shoot From Above</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-texture.html">
+      <img class="album-icon" src="albums/2025-52frames-texture.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Texture</span>
+    </a>
+    <a class="album-card" href="albums/2025-52frames-your-worst-nightmare.html">
+      <img class="album-icon" src="albums/2025-52frames-your-worst-nightmare.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2025 52frames Your Worst Nightmare</span>
+    </a>
+    <a class="album-card" href="albums/chair.html">
+      <img class="album-icon" src="albums/chair.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Chair</span>
+    </a>
+    <a class="album-card" href="albums/chaos.html">
+      <img class="album-icon" src="albums/chaos.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Chaos</span>
+    </a>
+    <a class="album-card" href="albums/complementary-colors.html">
+      <img class="album-icon" src="albums/complementary-colors.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Complementary Colors</span>
+    </a>
+    <a class="album-card" href="albums/get-low.html">
+      <img class="album-icon" src="albums/get-low.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Get Low</span>
+    </a>
+    <a class="album-card" href="albums/on-the-ground.html">
+      <img class="album-icon" src="albums/on-the-ground.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames On The Ground</span>
+    </a>
+    <a class="album-card" href="albums/red.html">
+      <img class="album-icon" src="albums/red.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Red</span>
+    </a>
+    <a class="album-card" href="albums/self-portrait.html">
+      <img class="album-icon" src="albums/self-portrait.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Self Portrait</span>
+    </a>
+    <a class="album-card" href="albums/shallow-depth-of-field.html">
+      <img class="album-icon" src="albums/shallow-depth-of-field.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Shallow Depth Of Field</span>
+    </a>
+    <a class="album-card" href="albums/2026-52frames-triangular-composition.html">
+      <img class="album-icon" src="albums/2026-52frames-triangular-composition.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Triangular Composition</span>
+    </a>
+    <a class="album-card" href="albums/2026-52frames-wabi-sabi.html">
+      <img class="album-icon" src="albums/2026-52frames-wabi-sabi.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 52frames Wabi-Sabi</span>
+    </a>
+    <a class="album-card" href="albums/2026-tahoe-flowers.html">
+      <img class="album-icon" src="albums/2026-tahoe-flowers.jpg" alt="" loading="lazy" decoding="async">
+      <span class="album-name">2026 Tahoe flowers</span>
+    </a>
+    </section>
   </main>
 </body>
 </html>
