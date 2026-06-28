@@ -15,6 +15,11 @@
     "page_url": "albums/2025-52frames-black-and-white-minimalism.html"
   },
   {
+    "slug": "2025-52frames-blue",
+    "name": "2025 52frames Blue",
+    "page_url": "albums/2025-52frames-blue.html"
+  },
+  {
     "slug": "2025-52frames-blur",
     "name": "2025 52frames Blur",
     "page_url": "albums/2025-52frames-blur.html"
@@ -95,6 +100,11 @@
     "page_url": "albums/2025-52frames-shoot-from-above.html"
   },
   {
+    "slug": "2025-52frames-something-old",
+    "name": "2025 52frames Something Old",
+    "page_url": "albums/2025-52frames-something-old.html"
+  },
+  {
     "slug": "2025-52frames-texture",
     "name": "2025 52frames Texture",
     "page_url": "albums/2025-52frames-texture.html"
@@ -118,6 +128,11 @@
     "slug": "2025-52frames-water",
     "name": "2025 52frames Water",
     "page_url": "albums/2025-52frames-water.html"
+  },
+  {
+    "slug": "2025-52frames-what-i-eat",
+    "name": "2025 52frames What I Eat",
+    "page_url": "albums/2025-52frames-what-i-eat.html"
   },
   {
     "slug": "2025-52frames-your-worst-nightmare",
