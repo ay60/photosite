@@ -1,0 +1,69 @@
+{
+  "album_name": "2026 52frames A New Technique",
+  "slug": "2026-52frames-a-new-technique",
+  "source_folder_id": "18ogStRH9CO8NzUaS6WW2Lz_YrxH8EDgH",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1HfZ6W68gHhbnTHntOvO4G9BHlFAT8XSf",
+      "name": "Gemini_Generated_Image_3ttjsj3ttjsj3ttj.png",
+      "checksum": "d1861496b4c56528912dc4455e4041ce"
+    },
+    {
+      "id": "1z6GcdXnAWNFsTldiP4GVLnqz6wTQ7Vg6",
+      "name": "generated-1 (2).png",
+      "checksum": "c16e10fecf9aebb6e442d3911fda5586"
+    },
+    {
+      "id": "15d6r58Q8n7bri6-ahLmVi-mup6w7yZ88",
+      "name": "generated-1 (3).png",
+      "checksum": "961d48ec43d07c88d4b18d5b9dd5fea1"
+    },
+    {
+      "id": "1U0CFkrVfhNqHRy0oRebWaL6Iz3OGcK2b",
+      "name": "generated-1.png",
+      "checksum": "577107737d506193b99fad8d167286e2"
+    },
+    {
+      "id": "1E8Jr7faCV-9IbfMmYQa2M7DQAU_lNj3F",
+      "name": "ig_0fb16677cda65944006a486246a6f8819bb1bb234c1ed908dc-high-res.png",
+      "checksum": "59946fa13305bdf68be49e90a79b3821"
+    },
+    {
+      "id": "1GTG56jNSZXpu7FVTkMOVsgrGLZTCHJ__",
+      "name": "P0003622-1.jpg",
+      "checksum": "f9bdab31693beee3f10e0ad6cf184103"
+    },
+    {
+      "id": "1b8hxffbRxSDk6Q8vSEBnFCRWdXMsv1XC",
+      "name": "P0003627.jpg",
+      "checksum": "c8e3ec886a177f489be49435b7cf8cdc"
+    },
+    {
+      "id": "13SMShs1KE_6P3Uz9bPZLoWF7IYVZpqZU",
+      "name": "P0003634.jpg",
+      "checksum": "b0ffba560b1189c0a7a216caa6b76156"
+    },
+    {
+      "id": "1ujBJMKp1cfpxGA0GLqDjA2CFbe7MRC7B",
+      "name": "P0003635-1.jpg",
+      "checksum": "a62c3c1fd591d2f1ed26fd8b6b63e005"
+    },
+    {
+      "id": "1eRr8m8UmZBppC4qp7bKg8y3VyE6m4wu_",
+      "name": "P0003635.jpg",
+      "checksum": "c1279900b2eeeae245fb884a2b75bc67"
+    }
+  ]
+}
