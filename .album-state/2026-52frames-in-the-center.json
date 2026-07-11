@@ -1,0 +1,44 @@
+{
+  "album_name": "2026 52frames In The Center",
+  "slug": "2026-52frames-in-the-center",
+  "source_folder_id": "1rLQHmid1BMJGVA7wbNzjsxopooMYxUrP",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1bu4v1zBMc3bxDzv2uQfaiWY6qc07yn-t",
+      "name": "P0003641.jpg",
+      "checksum": "5e38f141683912c802ec65f4c934a939"
+    },
+    {
+      "id": "1vaEblJd8Ca2ss5wgI8KVFvUbPLwUsy92",
+      "name": "P0003642.jpg",
+      "checksum": "12788bf0dd375cbe330f0a427ce1952b"
+    },
+    {
+      "id": "1vV06SND-ktSal8yK5799RhiIC7whGNfo",
+      "name": "P0003643.jpg",
+      "checksum": "4b779bfd9934ec5153705a713cdc8229"
+    },
+    {
+      "id": "1SNYLW75R10PCHOpiX7Crc5dCsl-lTTRm",
+      "name": "P0003645.jpg",
+      "checksum": "95c5ea97b0306099ab1fd2bb057955b1"
+    },
+    {
+      "id": "18cA3Mb7ln6g3UvpGbO7H2DDIPpZ6YOBm",
+      "name": "P0003646-1.jpg",
+      "checksum": "734dab17957da671d5deabd9bfebd167"
+    }
+  ]
+}
