@@ -160,6 +160,11 @@
     "page_url": "albums/complementary-colors.html"
   },
   {
+    "slug": "2026-52frames-distortion",
+    "name": "2026 52frames Distortion",
+    "page_url": "albums/2026-52frames-distortion.html"
+  },
+  {
     "slug": "get-low",
     "name": "2026 52frames Get Low",
     "page_url": "albums/get-low.html"
@@ -168,6 +173,11 @@
     "slug": "2026-52frames-in-the-center",
     "name": "2026 52frames In The Center",
     "page_url": "albums/2026-52frames-in-the-center.html"
+  },
+  {
+    "slug": "2026-52frames-negative-space",
+    "name": "2026 52frames Negative Space",
+    "page_url": "albums/2026-52frames-negative-space.html"
   },
   {
     "slug": "on-the-ground",

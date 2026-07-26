@@ -1,0 +1,44 @@
+{
+  "album_name": "2026 52frames Negative Space",
+  "slug": "2026-52frames-negative-space",
+  "source_folder_id": "1ZZtL8zWYM0r9FWQK_ggfWLsnDku3dME0",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1G5FCBxyEO7zWE4zwwUl2Hz0o-66TdbUL",
+      "name": "IMG_5770.jpg",
+      "checksum": "a7accf9ad018ed6d059d4bd42fb24dc1"
+    },
+    {
+      "id": "1FmtKrByWRz3C4Ym2KAjdUeGiZ51q5v4S",
+      "name": "IMG_5771.jpg",
+      "checksum": "d585c59bf43fb60424a1259964606701"
+    },
+    {
+      "id": "1OBe4hjinH4pvQsBhuD3GH7T6hE0CHWcH",
+      "name": "IMG_5773.jpg",
+      "checksum": "1f415c25ceacb014bdbe1f6fc6c83901"
+    },
+    {
+      "id": "1CkBk8--A_avzNmNRagsgUXYbbYyRjOSB",
+      "name": "P0003664.jpg",
+      "checksum": "988a72dc56d5cf417d09f55f0154fb48"
+    },
+    {
+      "id": "1TGvtlZy_xIDhsveBk25kwnRIfzLoJMj_",
+      "name": "P0003673-1.jpg",
+      "checksum": "bb25ffb694c9303e89a24cd6ed16d4b3"
+    }
+  ]
+}
