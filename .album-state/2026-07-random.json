@@ -1,0 +1,29 @@
+{
+  "album_name": "2026-07 Random",
+  "slug": "2026-07-random",
+  "source_folder_id": "12SwAN5iX7QyuDn1X1zBeZzAL3e6bMVHy",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1x9dNpzH7RjEKpdKqOB0kguekj4T1VbNy",
+      "name": "IMG20260710093440.jpg",
+      "checksum": "39af4b056680fc461136ad84560bd906"
+    },
+    {
+      "id": "1hOaxIj3almMn0CIAQvUza6HjRY5ZZAAD",
+      "name": "IMG20260719081809.jpg",
+      "checksum": "298f71f9956064464c22c7882f8c3e91"
+    }
+  ]
+}

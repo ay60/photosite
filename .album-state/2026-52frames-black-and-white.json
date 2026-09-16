@@ -1,0 +1,74 @@
+{
+  "album_name": "2026 52frames Black And White",
+  "slug": "2026-52frames-black-and-white",
+  "source_folder_id": "1pedkYEu28tB-kzG2xGhUdc-rU4iuuyEI",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1DCip5P_E0o_HGaitf2dFARN8l_qFkwyX",
+      "name": "IMG20260906073724.jpg",
+      "checksum": "339162081cb49c89a67215a80d86f6a9"
+    },
+    {
+      "id": "1Hvj0qSRsFpSfaEQJqLkFQLODbV0JTf22",
+      "name": "IMG20260907103841.jpg",
+      "checksum": "99e20e07c03bc2f134aed8c2f102a0da"
+    },
+    {
+      "id": "13a-CVMsdc2DrO2GCgMhp0EdnZjvIgKgr",
+      "name": "IMG20260907112627.jpg",
+      "checksum": "f4e7435c0d2b11a20477e7d8cdb8699e"
+    },
+    {
+      "id": "1z53mk9pU6PZwNMswbY39zKdExFwqnDPw",
+      "name": "IMG20260907112855.jpg",
+      "checksum": "4e07297d5d7373c44a0b605e8f7c51f2"
+    },
+    {
+      "id": "1JNViDgvXngCYMc7wMNtqEsQGx7y6_zcK",
+      "name": "IMG20260910104321.jpg",
+      "checksum": "2049ae33c71c6bca52fe9678c4c2b710"
+    },
+    {
+      "id": "1JMXPBL3GkctSOP_x_sFeyUP797WzVRNI",
+      "name": "IMG20260910112856.jpg",
+      "checksum": "0dc454ddb7f026af3b4d5c3bd4ae41ae"
+    },
+    {
+      "id": "1VpkRnWjc3GzC6xLsPniYHd8kaJp9yBMa",
+      "name": "IMG20260910113901.jpg",
+      "checksum": "e0ce6ae3368ff81ac5024d637574d6d6"
+    },
+    {
+      "id": "1Z3E06ZBBNHVsBKPulYKaNRJsDhi4kS7k",
+      "name": "IMG20260911095307.jpg",
+      "checksum": "f4302124e16574624cdea8e549f6341c"
+    },
+    {
+      "id": "1qq1KZTwT2ACBpo9eiW0bZFy2bc7D2h9d",
+      "name": "P0003705.jpg",
+      "checksum": "f9a3850c3843c23cc7ad8fdfeb06437b"
+    },
+    {
+      "id": "1BOq7AZO59WE_kLi9WNYZ7tMGVKtt309c",
+      "name": "P0003707.jpg",
+      "checksum": "1b708f71a88841befa3c6f31aa32252c"
+    },
+    {
+      "id": "1lYkt9FiOmPW18i1VN6ylkAJM0d67vTbg",
+      "name": "P0003709.jpg",
+      "checksum": "b80e321ccad9823385ffd8f2f9c4e62a"
+    }
+  ]
+}

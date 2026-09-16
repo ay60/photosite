@@ -150,6 +150,11 @@
     "page_url": "albums/2026-52frames-abstract.html"
   },
   {
+    "slug": "2026-52frames-black-and-white",
+    "name": "2026 52frames Black And White",
+    "page_url": "albums/2026-52frames-black-and-white.html"
+  },
+  {
     "slug": "chair",
     "name": "2026 52frames Chair",
     "page_url": "albums/chair.html"
@@ -218,5 +223,20 @@
     "slug": "2026-tahoe-flowers",
     "name": "2026 Tahoe flowers",
     "page_url": "albums/2026-tahoe-flowers.html"
+  },
+  {
+    "slug": "2026-06-random",
+    "name": "2026-06 Random",
+    "page_url": "albums/2026-06-random.html"
+  },
+  {
+    "slug": "2026-07-random",
+    "name": "2026-07 Random",
+    "page_url": "albums/2026-07-random.html"
+  },
+  {
+    "slug": "2026-08-random",
+    "name": "2026-08 Random",
+    "page_url": "albums/2026-08-random.html"
   }
 ]

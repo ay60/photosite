@@ -1,0 +1,64 @@
+{
+  "album_name": "2026-08 Random",
+  "slug": "2026-08-random",
+  "source_folder_id": "13PtqiT71LjRFfP0GMRGO-f5_aHG9a3cc",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1C1AkEemxuixjQCO8oGFvsTXauMK3EFzq",
+      "name": "IMG20260809160425.jpg",
+      "checksum": "6d779b3c375e1deb7fee4ca64b28aa3a"
+    },
+    {
+      "id": "1ohd77xfax2dX3zyv8zPL0OEendAFG5l_",
+      "name": "IMG20260810084703.jpg",
+      "checksum": "154d935beb4ed7445d29e4e367c01505"
+    },
+    {
+      "id": "1R6XvVFOYE9PSDWYdgbG891B1LZYUSwQ1",
+      "name": "IMG20260817195148.jpg",
+      "checksum": "9aa9d4304a1e9be89252225fbb722adc"
+    },
+    {
+      "id": "1_vwkitRelZra4HUbRFoUc-psXsK59iQH",
+      "name": "IMG20260826124357.jpg",
+      "checksum": "bac6c99c47e62632d5fb301238f0870c"
+    },
+    {
+      "id": "1jhrRZ-6UqOFElUTOAFQSmhUYycoOoH_4",
+      "name": "IMG20260826154800.jpg",
+      "checksum": "4b5c1c36d3c9398720abec4475a31053"
+    },
+    {
+      "id": "1IkpCToIJXYrzTc-nAp-saDbBJZDceo_6",
+      "name": "P0003693.jpg",
+      "checksum": "5fcc90c7f8cb859abc45271e55fdf477"
+    },
+    {
+      "id": "1X4isdnSTqdHMVuK3lrTObBddPKpcn6hn",
+      "name": "P0003694.jpg",
+      "checksum": "deb51d783d727d12d3732ba522c2c726"
+    },
+    {
+      "id": "1DjRDL9WJHvMeu8kQtQW4beoNYZbQ0coV",
+      "name": "P0003695.jpg",
+      "checksum": "2c3d5289c20080ccd8273d474953db66"
+    },
+    {
+      "id": "1I2Z4D3t5dJJNMR9M2RZ5Ko0lBGTdDUZj",
+      "name": "P0003703.jpg",
+      "checksum": "eb38a4c8c7ec79059f473a0c12b18f28"
+    }
+  ]
+}
