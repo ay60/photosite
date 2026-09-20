@@ -1,0 +1,74 @@
+{
+  "album_name": "2026 52frames Music",
+  "slug": "2026-52frames-music",
+  "source_folder_id": "1CLUcxl6Szelx5YT_hDFS_ATxISW2xqau",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1TkNYm3GAkiaL_iWhHUZofl4KW6_0DQiu",
+      "name": "P0003724.jpg",
+      "checksum": "c109d9ba078b0ad9c4248fec114b1787"
+    },
+    {
+      "id": "1saQqrRc2u2HCyS_r1R_camepT7GZR1J1",
+      "name": "P0003725.jpg",
+      "checksum": "202074604b12356c3e5b83f8ee0938c4"
+    },
+    {
+      "id": "1-xif6t14t0Hmd94jy6bHXRuWoNATqX9_",
+      "name": "P0003726-1.jpg",
+      "checksum": "d0190aebb245a1c9baae544d9e6c1996"
+    },
+    {
+      "id": "1cS3Afc1ZcpZbDAOF4Z_GPQyoJyvHTpt0",
+      "name": "P0003727.jpg",
+      "checksum": "ec02d0d0d4d2b0450473c60a68521a9e"
+    },
+    {
+      "id": "1AqrmQJNGjBHu18wIQMCAZQQoYUE330kV",
+      "name": "P0003731.jpg",
+      "checksum": "3ebde5cea8c45e444f79ee740cacc6ab"
+    },
+    {
+      "id": "1pvpV5XjaK22Bfr1jYEh3MGxyc32pf1EE",
+      "name": "P0003744.jpg",
+      "checksum": "c884eb6023adfe25c4be9bdc280d3a5c"
+    },
+    {
+      "id": "1fZomqZ42IMd7MWFI2TfH3bmYZfTxq39W",
+      "name": "P0003746.jpg",
+      "checksum": "0011faf81a74fbc1c78d40885da00497"
+    },
+    {
+      "id": "1t4wjm9qAGNLcvZAIlfYkOm5ZMHul1XN0",
+      "name": "P0003749.jpg",
+      "checksum": "4b6a0d26b3209c49904a0362bdf2c520"
+    },
+    {
+      "id": "1FPUNWL1aFpeXP4dafhl4_C21cS67YMc0",
+      "name": "P0003751.jpg",
+      "checksum": "572265519b7dab46e00102914abfefbe"
+    },
+    {
+      "id": "1LlMQnJpngQkab0zzamRoF59ahrDxq894",
+      "name": "P0003756.jpg",
+      "checksum": "568a17638ac22099d111cdaad7965706"
+    },
+    {
+      "id": "1_i-8yBMV3qT-4tFLkc6W6698n3lVx5Lr",
+      "name": "P0003762.jpg",
+      "checksum": "0ee35668c2bd8f137033737eda52a18e"
+    }
+  ]
+}
