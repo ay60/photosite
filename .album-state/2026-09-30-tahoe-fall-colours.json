@@ -1,0 +1,79 @@
+{
+  "album_name": "2026-09-30 Tahoe Fall Colours",
+  "slug": "2026-09-30-tahoe-fall-colours",
+  "source_folder_id": "19NenFET9jMKFIl9CSuA0fcn1gyZIvciZ",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1GrnJEhP500bFFfJdKC04jcmg6vD3Tt0j",
+      "name": "P0003788.jpg",
+      "checksum": "fa0f755361b3f281230308cd1e8939d4"
+    },
+    {
+      "id": "1vAjyrPA03g0dtETwLkyPqqAdkJLnAD1h",
+      "name": "P0003789.jpg",
+      "checksum": "114b95f45d64042693ebbf4433ac61e1"
+    },
+    {
+      "id": "1RFGf8h6VJPYdATlIm-oCMLyzVQpPknhP",
+      "name": "P0003791.jpg",
+      "checksum": "0749ca43af200709ffd34ba2dac695c9"
+    },
+    {
+      "id": "1S_R8pytyoJmLN8JwRBuuLhrP12oZsKmg",
+      "name": "P0003792.jpg",
+      "checksum": "d10997fe80b07db6eec36cad49e6d7a9"
+    },
+    {
+      "id": "1N_4eTorX69TQGi3vZEe5sWdm8Dpsc_fC",
+      "name": "P0003793.jpg",
+      "checksum": "9cbe5537dd0929c795fed5d12eff16ac"
+    },
+    {
+      "id": "11QPyrP92GGvabpXXn1YM_-Z4uVp3nABo",
+      "name": "P0003794.jpg",
+      "checksum": "c7c2415099d5c2906d6c468ae27ce889"
+    },
+    {
+      "id": "1QGGmWCvJCxkLCrIeu_ckT46D_w4AFhOk",
+      "name": "P0003796.jpg",
+      "checksum": "66596581f56f955c35fc62573144ab77"
+    },
+    {
+      "id": "1dzdNE_FuH12dECLLTw8xX3RBA1giM9W7",
+      "name": "P0003801.jpg",
+      "checksum": "8471a18b9f86bdfe7b1ae7712501f33c"
+    },
+    {
+      "id": "1ebgev6ulaRJ420Zma6Qcxh25XEZAm8KP",
+      "name": "P0003803.jpg",
+      "checksum": "999a4bf125d231c1f256f8ca53032824"
+    },
+    {
+      "id": "1J8BbzUb3pER1XOnuLMvSBgD5QLnLaJrC",
+      "name": "P0003804.jpg",
+      "checksum": "442a3ffa8085c527183cd17d1cec7814"
+    },
+    {
+      "id": "1gZH5dtVPF9lb2aeyfWzoJy-hcJ7E2oV6",
+      "name": "P0003805.jpg",
+      "checksum": "312a53877fa8772957936b8f32183c87"
+    },
+    {
+      "id": "1JLpHSKCHx8BxcdlnUJaARx4z53QIt4t7",
+      "name": "P0003807.jpg",
+      "checksum": "59ab24480882ae08ec4ea0da183d8011"
+    }
+  ]
+}

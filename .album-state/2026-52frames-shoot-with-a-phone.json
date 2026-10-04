@@ -1,0 +1,79 @@
+{
+  "album_name": "2026 52frames Shoot With A Phone",
+  "slug": "2026-52frames-shoot-with-a-phone",
+  "source_folder_id": "1eivce4DG06uA7_DJ8gafwh7Vo4sT_j1N",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1vULoW9lMH1t6v1uq5GUxk7RCteM1VkKO",
+      "name": "IMG20260928075416-BW.jpg",
+      "checksum": "e0b17cdd663c2ddba803a23dcb125ee1"
+    },
+    {
+      "id": "1XIJRR95uSSYFujDWwPNJMO1PVExso5x2",
+      "name": "IMG20260928181352.jpg",
+      "checksum": "cd5e4be538e3df9b1ccd80d46fb754ad"
+    },
+    {
+      "id": "1EZ7fOif0h57Hip0kM6uGGPKfIJRdhAfE",
+      "name": "IMG20260928181529.jpg",
+      "checksum": "0783a34d0b048c041d8392ceb9ec5d7b"
+    },
+    {
+      "id": "1dKzM0hfaZR-qHW5uykrRnf1iL0Rvyjfh",
+      "name": "IMG20260928182456.jpg",
+      "checksum": "38ee4f2d1e293911100495ec25422393"
+    },
+    {
+      "id": "1QAJMbiz7UxsinQket3-8IdpZrWlLRRyS",
+      "name": "IMG20260929105131.jpg",
+      "checksum": "09c6a620d733922726c4ce5dd5ddbfa8"
+    },
+    {
+      "id": "1hDDRAGN2AlQkLTPrwhWaLm0l6j3e6gEF",
+      "name": "IMG20260929105248.jpg",
+      "checksum": "bb9aa349e7d554dd7b5733e2e8d8b337"
+    },
+    {
+      "id": "1J9ZOBKlDY7Di-x_4QFWRpkXypYDEKSkZ",
+      "name": "IMG20260929125915.jpg",
+      "checksum": "a991b4312ed2ac9534d552420068db08"
+    },
+    {
+      "id": "1eOAqPmR6I9ptcucZNFtlqoFCcoRfvIyr",
+      "name": "IMG20261001180052.jpg",
+      "checksum": "fb32971f3fdf75c57fed103e13c09789"
+    },
+    {
+      "id": "1YHomECdC9Fj6b4kgnfH6wl667YZced0Z",
+      "name": "IMG20261001180628.jpg",
+      "checksum": "f7b753babcd592f3ca2aba622f2a6da5"
+    },
+    {
+      "id": "1ebWWWCGxfYxhA9Gcm8xJfITsK4DBHP6W",
+      "name": "IMG20261001181006.jpg",
+      "checksum": "67a3278789c5d87b95e7796d2fea968a"
+    },
+    {
+      "id": "1Acz_vZpd_QraRH8-LNat1NAnu58ROnbm",
+      "name": "IMG20261001183055.jpg",
+      "checksum": "7f8aca36e4dd525ac45802f115f2a127"
+    },
+    {
+      "id": "1nL6Izi3JxNVHS1AZzL7s-VTqK74nhb07",
+      "name": "IMG20261002091017.jpg",
+      "checksum": "bc23f7978c8231fce65cc640a004ec18"
+    }
+  ]
+}

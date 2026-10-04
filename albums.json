@@ -215,6 +215,11 @@
     "page_url": "albums/shallow-depth-of-field.html"
   },
   {
+    "slug": "2026-52frames-shoot-with-a-phone",
+    "name": "2026 52frames Shoot With A Phone",
+    "page_url": "albums/2026-52frames-shoot-with-a-phone.html"
+  },
+  {
     "slug": "2026-52frames-triangular-composition",
     "name": "2026 52frames Triangular Composition",
     "page_url": "albums/2026-52frames-triangular-composition.html"
@@ -243,5 +248,10 @@
     "slug": "2026-08-random",
     "name": "2026-08 Random",
     "page_url": "albums/2026-08-random.html"
+  },
+  {
+    "slug": "2026-09-30-tahoe-fall-colours",
+    "name": "2026-09-30 Tahoe Fall Colours",
+    "page_url": "albums/2026-09-30-tahoe-fall-colours.html"
   }
 ]
