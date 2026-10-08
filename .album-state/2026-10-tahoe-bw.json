@@ -1,0 +1,84 @@
+{
+  "album_name": "2026-10 Tahoe BW",
+  "slug": "2026-10-tahoe-bw",
+  "source_folder_id": "1joEmOCoX12kS_KbW2loKkFi9DfzMMqUR",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1-G5aUFdIwjQpfJaKOpfY_0d-lJWvHig9",
+      "name": "P0003808.jpg",
+      "checksum": "e00438ba327b58d3b182150365896acb"
+    },
+    {
+      "id": "1nPHBdTEOy9le-Lvr_M8GZrrQHz_fBbLe",
+      "name": "P0003810.jpg",
+      "checksum": "aeee87f643bae5c0934ae958888cca03"
+    },
+    {
+      "id": "1jGC6iXvPK-DVNL3HqbYp41qSjAgTNL5P",
+      "name": "P0003814.jpg",
+      "checksum": "2c4d78068f8aae78741582bfc20f783d"
+    },
+    {
+      "id": "1WJZRwV9BDwKuaD0mhmKmijndvAirJl75",
+      "name": "P0003815.jpg",
+      "checksum": "47305d335dff4e48384bdfd377e447cc"
+    },
+    {
+      "id": "1vXmqT6Rvvm6zt66r42eD6De9FJnojaYM",
+      "name": "P0003817-1.jpg",
+      "checksum": "47c9202dc12e923c95489ea7bf2418ff"
+    },
+    {
+      "id": "19jEGmgzR3gp0YtzsOhSD6f_uxXgA5j0e",
+      "name": "P0003819.jpg",
+      "checksum": "efc01ed7c48a25251aff1752a1e3f335"
+    },
+    {
+      "id": "14F2NMKAuYIcq9ryy0GmidUC3ckZc15sw",
+      "name": "P0003821.jpg",
+      "checksum": "8c6b93b56ca5fc8c9d5cc02f1f31ff62"
+    },
+    {
+      "id": "1ThrqVqcW9cCTlcTQmX-2VYBRTbqEyPKd",
+      "name": "P0003822.jpg",
+      "checksum": "08e9b17db5ae93d61bfd8932963053f8"
+    },
+    {
+      "id": "1tXz2_j8gQ8OlwvzGcxL06vQNW67NNmD5",
+      "name": "P0003824.jpg",
+      "checksum": "7f8ab48901944853d60d421fd64f258a"
+    },
+    {
+      "id": "1kjFFS0mdQhjmem-UMTLckR7vylQr5AfU",
+      "name": "P0003825.jpg",
+      "checksum": "ca126a7489d2e01a061d1c3ae899dbdc"
+    },
+    {
+      "id": "1kMf8hoYh9dQM6S9RVJA5olds1AvsGqyo",
+      "name": "P0003827.jpg",
+      "checksum": "4929b1ef6d19a111ceac10a816d2827f"
+    },
+    {
+      "id": "1zwY604BGrNy-LdwOF0xHMU0ZHzF1VrGN",
+      "name": "P0003828.jpg",
+      "checksum": "55cc8aa3608c34b4d7a0d7f100c794fd"
+    },
+    {
+      "id": "1rz_YpjZ2Bf-RPKzMqL5yrPrPBT1QccJK",
+      "name": "P0003829-1.jpg",
+      "checksum": "201ecb6aa5ffae685738117a7f2bd6ec"
+    }
+  ]
+}
