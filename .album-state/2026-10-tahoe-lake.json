@@ -1,0 +1,49 @@
+{
+  "album_name": "2026-10 Tahoe Lake",
+  "slug": "2026-10-tahoe-lake",
+  "source_folder_id": "1zBon6lXfubdNXgK8YhdV51Lo6akzImmh",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1Jk3F16LuPfjpoatFz4CPH0B804a4FSqB",
+      "name": "P0003857.jpg",
+      "checksum": "129a6a834c41289cfd51b6fb36782dca"
+    },
+    {
+      "id": "124lYno7Ym8DcxIUq3l8YAGw0jYjYSv2h",
+      "name": "P0003866.jpg",
+      "checksum": "5f7f455769665b17e4c23ec583c18c19"
+    },
+    {
+      "id": "1llNEJJHbvV1_s1_Gfwz8eg6GKXawL9sB",
+      "name": "P0003916.jpg",
+      "checksum": "c62d6914959ce3b9335e8106022e84ad"
+    },
+    {
+      "id": "1VE7yOvAsAqGKHtyygtd9oKvIkl-WZ-4E",
+      "name": "P0003917.jpg",
+      "checksum": "05722f4406616f774f6ed057ecb9abae"
+    },
+    {
+      "id": "1lRDNRaZpST3rgG9GWAilTi_Zd-0NPf1r",
+      "name": "P0003926.jpg",
+      "checksum": "c8f8a09ee8ca7c72d052abce5a185190"
+    },
+    {
+      "id": "1C9ecQ9A6avY6n3MB5JxndWtxd8Pn4Ynw",
+      "name": "P0003931.jpg",
+      "checksum": "47c6d8053eceea08639e876b29d99d11"
+    }
+  ]
+}

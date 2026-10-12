@@ -1,0 +1,54 @@
+{
+  "album_name": "2026-10 Tahoe Fall Colours 2",
+  "slug": "2026-10-tahoe-fall-colours-2",
+  "source_folder_id": "1CW5q2F5PsqKP6rDW5H6ZXOYfZno0O8Yh",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1Aihg1oxNJo_ipt4SOiXFSZbGgDNTExsI",
+      "name": "P0003850.jpg",
+      "checksum": "49146365e6da07134be13fc07e11e647"
+    },
+    {
+      "id": "1hGH8xDf3S5KfT_lX2LKEuaJ48Tv9w4g-",
+      "name": "P0003894.jpg",
+      "checksum": "d5faee0af8696574ce2ad88cffcc4ed3"
+    },
+    {
+      "id": "1VVPw3Y1ZKnITqWzuhOgXTtRPyHN8K-tj",
+      "name": "P0003895.jpg",
+      "checksum": "c1e3b527aaad65330965486d877c54d4"
+    },
+    {
+      "id": "1wHrOpPZNIXFN5tH-yAR-tBnpJpoPDD4W",
+      "name": "P0003900.jpg",
+      "checksum": "02dd7a749a91bbf8c92e963809e69c25"
+    },
+    {
+      "id": "1cST5Dt6Uo4V5N2B6LA-z5YUatZ9HyWXj",
+      "name": "P0003901.jpg",
+      "checksum": "c7490b1387b2a1861b8e973e7a169ab1"
+    },
+    {
+      "id": "15SIBW9r9ub6U81Yl6nUXff-e7u9hSRf4",
+      "name": "P0003902.jpg",
+      "checksum": "b523566039b3d1071ab8aad473e07019"
+    },
+    {
+      "id": "1he8QlHZ8hKEbU9U5j-xJULXC3yaAUUBv",
+      "name": "P0003904.jpg",
+      "checksum": "cf78349314dbd56fbe1690a0a789b56a"
+    }
+  ]
+}
