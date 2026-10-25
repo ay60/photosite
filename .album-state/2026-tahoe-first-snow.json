@@ -1,0 +1,64 @@
+{
+  "album_name": "2026 Tahoe First Snow",
+  "slug": "2026-tahoe-first-snow",
+  "source_folder_id": "18k2ltWcoQYdNin0e3dXFWl6miQ-kNRUE",
+  "thumbnail_size": 320,
+  "album_preview": {
+    "generator": "openai_responses_image_generation",
+    "model": "gpt-5.5",
+    "credentials_file": "C:\\Users\\andrei\\Work\\ay_projects\\site\\gdrive\\openai-credentials.json",
+    "prompt_version": "v1",
+    "render_version": "v2",
+    "reference_image_limit": 8,
+    "output_width": 1200,
+    "output_height": 630,
+    "output_max_bytes": 307200
+  },
+  "images": [
+    {
+      "id": "1ybipu1RYXUiyb3aa8vl9qJOLUj0KvjUy",
+      "name": "P0003988.jpg",
+      "checksum": "81ac6782599660712d927e4473d8ee27"
+    },
+    {
+      "id": "1sKt8_OWFPcH1xaVNgrFmnVO5DjiRc31y",
+      "name": "P0004013.jpg",
+      "checksum": "0a77826653d09dd47b9d77bd6cf9cb43"
+    },
+    {
+      "id": "1E25lBZikYfamVkRB0Skhz9hwBSTKyEYv",
+      "name": "P0004016.jpg",
+      "checksum": "234b017ee0d7fd13ae0f750fa332af44"
+    },
+    {
+      "id": "1ay3hbCuJiCansvxXwQkIUUT_e57O1KJb",
+      "name": "P0004022.jpg",
+      "checksum": "44f2e49dcd26a1632ddb8e88af31cac7"
+    },
+    {
+      "id": "1K-7l4qvHy-7m5ZtWJD_vnvD3v92tes_l",
+      "name": "P0004025-1.jpg",
+      "checksum": "39cd6dd9e6b4d679c577bdebbcc86185"
+    },
+    {
+      "id": "1Z5D_aqj26hbLziOb3fe8OtTdKYOcYZz_",
+      "name": "P0004027.jpg",
+      "checksum": "c73badfe2a14ff4c866b6983ba0750ea"
+    },
+    {
+      "id": "1060HzyKLQYJkg0u9HEWqUFZfIJNaSQW4",
+      "name": "P0004035.jpg",
+      "checksum": "e2e56f49e79108030a0339ba84b00221"
+    },
+    {
+      "id": "1RRIVPlNTW5l8G3JwwE-ANureRadfdv7e",
+      "name": "P0004041.jpg",
+      "checksum": "0fc57d52100ddeb0ff9c1c71d4994f56"
+    },
+    {
+      "id": "1o0H3KI5e3sb2U1hUUxdYAYgLFNcCgop1",
+      "name": "P0004045.jpg",
+      "checksum": "c2539dc70dc28fd8ec7b81d01563cef6"
+    }
+  ]
+}
